@@ -1,0 +1,49 @@
+%Tema para beamer "CCM1" versión 1
+%Desarrollo por Erick David Luna Núñez y 
+%Fernanda Barajas Hernandez
+
+\mode<presentation>
+
+\setbeamerfont{sectiontitle}{size=\Huge, shape=\scshape}
+
+%Barra de título
+\defbeamertemplate*{frametitle}{CCM1}[1][]
+{
+  \begin{beamercolorbox}[wd=\the\paperwidth,ht=1.5cm]{frametitle}
+    \begin{tikzpicture}
+      \useasboundingbox (0,0) rectangle(\the\paperwidth,1.4);
+      
+      \ifx\insertframesubtitle\@empty
+       {\node[anchor=west, font=\huge] at (0.85,0.82){\textbf{\color{rojotexto} \insertframetitle}};}
+       \else%
+       {\node[anchor=west, font=\huge] at (0.85, 1.02){ \textbf{\color{rojotexto} \insertframetitle}};%
+       \node[anchor=west, font=\large] at (0.85, 0.53){\color{rojotexto} \insertframesubtitle};}%
+       \fi
+     \end{tikzpicture}
+   \end{beamercolorbox}
+   \vspace{-1.7cm}
+}
+
+\setbeamerfont{sectiontitle}{size=\huge, shape=\scshape}
+
+%%Configuración pie de página
+\defbeamertemplate*{sidebar left}{sidebar theme}
+{
+\ifnum\thepage>2
+\vspace*{\fill}
+\hspace{-0.25\paperwidth}\colorbox{rojotexto}{%
+\makebox[1.5\paperwidth][c]{\scriptsize \textcolor{white}{%
+\begin{tabular}{
+  p{\dimexpr.5\paperwidth-2\tabcolsep-1.3333\arrayrulewidth}% column 1
+  |p{\dimexpr.25\paperwidth-2\tabcolsep-1.3333\arrayrulewidth}% column 2
+  |p{\dimexpr.25\paperwidth-2\tabcolsep-1.3333\arrayrulewidth}|% column 3
+  }
+     \insertauthor & \centering \insertsection  & \raggedleft \thepage \text{/}\pageref{LastPage}
+\end{tabular}
+}}
+}
+
+\fi
+}
+
+\mode<all>
