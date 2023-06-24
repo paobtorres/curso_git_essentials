@@ -316,19 +316,19 @@ Ref: Documentación para \href{https://docs.github.com/es/authentication/connect
 
 \begin{block}{}
 
-  \texttt{mkdir <nombre\_carpeta>}
+  \texttt{mkdir <nombre\_carpeta>} \\ 
   \texttt{git init}
 
 \end{block}
 
 \begin{block}{Conectar repositorio a la nube de GitHub}
-
-  \texttt{git remote add origin git@github.com:user/repositorio.git}
-  \texttt{git push -u origin <branch>}
+  \small 
+  \texttt{git remote add origin git@github.com:user/repositorio.git} \\ 
+  \texttt{git branch -M \textbf{main}} \\
+  \texttt{git push -u origin \textbf{main}}
 
 \end{block}
 
-***REVISAR *** 
 
 \end{frame}
 
@@ -380,7 +380,8 @@ Ref: Documentación para \href{https://docs.github.com/es/authentication/connect
 
     \begin{block}{Historial}
       {\texttt{\$ git log}} \\
-      \texttt{\$ git log --pretty=oneline} 
+      \texttt{\$ git log --pretty=oneline} \\
+      \texttt{\$ git log --graph} \\ 
     \end{block}
 
 
@@ -395,7 +396,9 @@ Ref: Documentación para \href{https://docs.github.com/es/authentication/connect
     Una función criptográfica hash es un algoritmo matemático que transforma cualquier bloque arbitrario de datos en una nueva serie de caracteres con una longitud fija (40 caracteres)
     \end{alertblock}  
 
-
+\begin{figure}
+  \includegraphics[width=\textwidth]{images/git-hash.png}
+\end{figure}
 
 
 \end{frame}
@@ -586,7 +589,7 @@ Ref: Documentación para \href{https://docs.github.com/es/authentication/connect
 \end{frame}
 
 
-\begin{frame}
+\begin{frame}{Issues}
   \begin{figure}
     \includegraphics[width=\textwidth]{images/issue.PNG}
   \end{figure}
