@@ -91,29 +91,31 @@
 \headcommand {\beamer@framepages {29}{29}}
 \headcommand {\beamer@subsectionpages {29}{29}}
 \headcommand {\beamer@subsectionentry {0}{3}{4}{30}{GitHub funcionalidades}}
-\headcommand {\slideentry {3}{4}{1}{30/30}{GitHub funcionalidades}{0}}
-\headcommand {\beamer@framepages {30}{30}}
-\headcommand {\slideentry {3}{4}{2}{31/31}{GitHub funcionalidades}{0}}
-\headcommand {\beamer@framepages {31}{31}}
-\headcommand {\slideentry {3}{4}{3}{32/32}{GitHub funcionalidades}{0}}
-\headcommand {\beamer@framepages {32}{32}}
-\headcommand {\slideentry {3}{4}{4}{33/33}{GitHub funcionalidades}{0}}
-\headcommand {\beamer@framepages {33}{33}}
-\headcommand {\beamer@subsectionpages {30}{33}}
-\headcommand {\beamer@subsectionentry {0}{3}{5}{34}{Buenas practicas}}
-\headcommand {\slideentry {3}{5}{1}{34/34}{Buenas practicas}{0}}
+\headcommand {\slideentry {3}{4}{1}{30/33}{GitHub funcionalidades}{0}}
+\headcommand {\beamer@framepages {30}{33}}
+\headcommand {\slideentry {3}{4}{2}{34/34}{GitHub funcionalidades}{0}}
 \headcommand {\beamer@framepages {34}{34}}
-\headcommand {\beamer@sectionpages {23}{34}}
-\headcommand {\beamer@subsectionpages {34}{34}}
-\headcommand {\sectionentry {4}{Referencias}{35}{Referencias}{0}}
-\headcommand {\slideentry {4}{0}{1}{35/35}{}{0}}
-\headcommand {\beamer@framepages {35}{35}}
-\headcommand {\slideentry {4}{0}{2}{36/36}{}{0}}
-\headcommand {\beamer@framepages {36}{36}}
-\headcommand {\slideentry {4}{0}{3}{37/37}{}{0}}
+\headcommand {\slideentry {3}{4}{3}{35/36}{GitHub funcionalidades}{0}}
+\headcommand {\beamer@framepages {35}{36}}
+\headcommand {\slideentry {3}{4}{4}{37/37}{GitHub funcionalidades}{0}}
 \headcommand {\beamer@framepages {37}{37}}
-\headcommand {\beamer@partpages {1}{37}}
-\headcommand {\beamer@subsectionpages {35}{37}}
-\headcommand {\beamer@sectionpages {35}{37}}
-\headcommand {\beamer@documentpages {37}}
-\headcommand {\gdef \inserttotalframenumber {36}}
+\headcommand {\beamer@subsectionpages {30}{37}}
+\headcommand {\beamer@subsectionentry {0}{3}{5}{38}{Buenas practicas}}
+\headcommand {\slideentry {3}{5}{1}{38/38}{Buenas practicas}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\slideentry {3}{5}{2}{39/39}{Buenas practicas}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\slideentry {3}{5}{3}{40/40}{Buenas practicas}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\beamer@sectionpages {23}{40}}
+\headcommand {\beamer@subsectionpages {38}{40}}
+\headcommand {\sectionentry {4}{Referencias}{41}{Referencias}{0}}
+\headcommand {\slideentry {4}{0}{1}{41/41}{}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\slideentry {4}{0}{2}{42/42}{}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\beamer@partpages {1}{42}}
+\headcommand {\beamer@subsectionpages {41}{42}}
+\headcommand {\beamer@sectionpages {41}{42}}
+\headcommand {\beamer@documentpages {42}}
+\headcommand {\gdef \inserttotalframenumber {37}}

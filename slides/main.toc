@@ -16,5 +16,5 @@
 \beamer@subsectionintoc {3}{2}{Sincronización}{28}{0}{3}
 \beamer@subsectionintoc {3}{3}{Resolución de conflictos}{29}{0}{3}
 \beamer@subsectionintoc {3}{4}{GitHub funcionalidades}{30}{0}{3}
-\beamer@subsectionintoc {3}{5}{Buenas practicas}{34}{0}{3}
-\beamer@sectionintoc {4}{Referencias}{35}{0}{4}
+\beamer@subsectionintoc {3}{5}{Buenas practicas}{38}{0}{3}
+\beamer@sectionintoc {4}{Referencias}{41}{0}{4}

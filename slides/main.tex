@@ -41,6 +41,17 @@ literate={\$}{{\textcolor{green}{\$}}}1
     breakatwhitespace=false,
 }
 
+\hypersetup{
+	hidelinks,
+	colorlinks,
+	breaklinks=true,
+	urlcolor= blue,
+	citecolor= blue,
+	linkcolor=black,
+	bookmarksopen=false
+}
+
+
 
 \pagenumbering{arabic}
 
@@ -48,7 +59,7 @@ literate={\$}{{\textcolor{green}{\$}}}1
 \newtheorem{teorema}{Teorema}
 
 %Definir el autor con el estilo definido (el textbf y el uso del color son herramientas del diseño, no necesario borrar)
-\title{\textbf{Git Essentials} \\ Curso de Inicio}
+\title{\textbf{Git Essentials}}
 
 %Nombre del autor
 \author{Ing. Paola B. Torres y Esp. Ing. Daniela Armijo} 
@@ -561,10 +572,10 @@ Ref: Documentación para \href{https://docs.github.com/es/authentication/connect
 
   \begin{itemize}
     \LARGE
-    \item Markdown
-    \item Issues 
-    \item Comentarios
-    \item GitHub Pages
+    \item <1-> Markdown
+    \item <2> {Issues} 
+    \item <3-> Comentarios en codigo
+    \item <4-> GitHub Pages (version Paga)
   \end{itemize}
 
 \end{frame}
@@ -590,13 +601,12 @@ Ref: Documentación para \href{https://docs.github.com/es/authentication/connect
 
 
 \begin{frame}{Issues}
-  \begin{figure}
-    \includegraphics[width=\textwidth]{images/issue.PNG}
-  \end{figure}
 
   \begin{figure}
-    \includegraphics[width=\textwidth]{images/issue-activity.PNG}
+    \includegraphics<1 | handout: 0>[width=\textwidth]{images/issue.PNG}
+    \llap {\includegraphics<2->[width=\textwidth]{images/issue-activity.PNG}}
   \end{figure}
+
 
 \end{frame}
 
@@ -634,17 +644,7 @@ Ref: Documentación para \href{https://docs.github.com/es/authentication/connect
 
   
 
-\section{Referencias}
 
-\begin{frame}{Referencias}
-
-  \begin{itemize}
-    \item Documentación oficial de \href{https://git-scm.com}{git} 
-    \item Documentación de \href{https://docs.github.com/es}{GitHub} (español)
-    \item \href{https://training.github.com/downloads/es_ES/github-git-cheat-sheet/}{cheat-sheet}
-  \end{itemize}
-
-\end{frame}
 
 \begin{frame}
 
@@ -657,6 +657,33 @@ Ref: Documentación para \href{https://docs.github.com/es/authentication/connect
   {\texttt{\$ git commit  }} \\
   {\texttt{\$ git push }}
 \end{block}
+
+\end{frame}
+
+\begin{frame}{Agradecimientos}
+  
+  \begin{figure}
+    \includegraphics[width=\textwidth]{images/logo_charles.png}
+  \end{figure}
+
+  \begin{figure}
+    \includegraphics[width=0.45\textwidth]{images/group-photo.jpg}
+  \end{figure}
+
+
+\end{frame}
+
+
+\section{Referencias}
+
+\begin{frame}{Referencias}
+
+  \begin{itemize}
+    
+    \item Documentación oficial de \href{https://git-scm.com}{git} 
+    \item Documentación de \href{https://docs.github.com/es}{GitHub} (español)
+    \item Atajos de git: \href{https://training.github.com/downloads/es_ES/github-git-cheat-sheet/}{cheat-sheet}
+  \end{itemize}
 
 \end{frame}
 

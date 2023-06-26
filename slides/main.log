@@ -1,55 +1,53 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.12)  23 JUN 2023 21:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  25 JUN 2023 20:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/paola/projects/curso_git/slides/main.tex
-(/home/paola/projects/curso_git/slides/main.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
-Document Class: beamer 2022/01/21 v3.65 A class for typesetting presentations
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+**d:/Documentos/00-Research/Cursos_organizados/curso_git_essentials/slides/main.tex
+(d:/Documentos/00-Research/Cursos_organizados/curso_git_essentials/slides/main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
+Document Class: beamer 2023/02/20 v3.69 A class for typesetting presentations
+(C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemodes.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count185
 )
-\beamer@tempbox=\box50
+\beamer@tempbox=\box51
 \beamer@tempcount=\count186
 \c@beamerpauses=\count187
- (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasedecode.sty
 \beamer@slideinframe=\count188
 \beamer@minimum=\count189
-\beamer@decode@box=\box51
+\beamer@decode@box=\box52
 )
-\beamer@commentbox=\box52
+\beamer@commentbox=\box53
 \beamer@modecount=\count190
-) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
-Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
- (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-))
-\headdp=\dimen138
-\footheight=\dimen139
-\sidebarheight=\dimen140
-\beamer@tempdim=\dimen141
-\beamer@finalheight=\dimen142
-\beamer@animht=\dimen143
-\beamer@animdp=\dimen144
-\beamer@animwd=\dimen145
-\beamer@leftmargin=\dimen146
-\beamer@rightmargin=\dimen147
-\beamer@leftsidebar=\dimen148
-\beamer@rightsidebar=\dimen149
-\beamer@boxsize=\dimen150
-\beamer@vboxoffset=\dimen151
-\beamer@descdefault=\dimen152
-\beamer@descriptionwidth=\dimen153
-\beamer@lastskip=\skip47
-\beamer@areabox=\box53
-\beamer@animcurrent=\box54
-\beamer@animshowbox=\box55
-\beamer@sectionbox=\box56
-\beamer@logobox=\box57
-\beamer@linebox=\box58
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+\headdp=\dimen140
+\footheight=\dimen141
+\sidebarheight=\dimen142
+\beamer@tempdim=\dimen143
+\beamer@finalheight=\dimen144
+\beamer@animht=\dimen145
+\beamer@animdp=\dimen146
+\beamer@animwd=\dimen147
+\beamer@leftmargin=\dimen148
+\beamer@rightmargin=\dimen149
+\beamer@leftsidebar=\dimen150
+\beamer@rightsidebar=\dimen151
+\beamer@boxsize=\dimen152
+\beamer@vboxoffset=\dimen153
+\beamer@descdefault=\dimen154
+\beamer@descriptionwidth=\dimen155
+\beamer@lastskip=\skip48
+\beamer@areabox=\box54
+\beamer@animcurrent=\box55
+\beamer@animshowbox=\box56
+\beamer@sectionbox=\box57
+\beamer@logobox=\box58
+\beamer@linebox=\box59
 \beamer@sectioncount=\count191
 \beamer@subsubsectionmax=\count192
 \beamer@subsectionmax=\count193
@@ -70,299 +68,316 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \beamer@sectionadjust=\count274
 \beamer@toclastsection=\count275
 \beamer@tocsectionnumber=\count276
- (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseoptions.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 ))
-\beamer@paperwidth=\skip48
-\beamer@paperheight=\skip49
- (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+\beamer@paperwidth=\skip49
+\beamer@paperheight=\skip50
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count277
 \Gm@cntv=\count278
 \c@Gm@tempcnt=\count279
-\Gm@bindingoffset=\dimen154
-\Gm@wd@mp=\dimen155
-\Gm@odd@mp=\dimen156
-\Gm@even@mp=\dimen157
-\Gm@layoutwidth=\dimen158
-\Gm@layoutheight=\dimen159
-\Gm@layouthoffset=\dimen160
-\Gm@layoutvoffset=\dimen161
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
 \Gm@dimlist=\toks17
-) (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 107.
- (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen162
-\Gin@req@width=\dimen163
-) (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks18
 \pgfutil@tempdima=\dimen164
 \pgfutil@tempdimb=\dimen165
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box59
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
-)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box60
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks19
 \pgfkeys@temptoks=\toks20
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks21
-))
+))) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex
 \pgf@x=\dimen166
-\pgf@y=\dimen167
-\pgf@xa=\dimen168
-\pgf@ya=\dimen169
-\pgf@xb=\dimen170
-\pgf@yb=\dimen171
-\pgf@xc=\dimen172
+\pgf@xa=\dimen167
+\pgf@xb=\dimen168
+\pgf@xc=\dimen169
+\pgf@y=\dimen170
+\pgf@ya=\dimen171
+\pgf@yb=\dimen172
 \pgf@yc=\dimen173
-\pgf@xd=\dimen174
-\pgf@yd=\dimen175
-\w@pgf@writea=\write3
-\r@pgf@reada=\read2
 \c@pgf@counta=\count280
 \c@pgf@countb=\count281
 \c@pgf@countc=\count282
 \c@pgf@countd=\count283
-\t@pgf@toka=\toks22
-\t@pgf@tokb=\toks23
-\t@pgf@tokc=\toks24
-\pgf@sys@id@count=\count284
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen174
+\pgfmath@count=\count284
+\pgfmath@box=\box61
+\pgfmath@toks=\toks22
+\pgfmath@stack@operand=\toks23
+\pgfmath@stack@operation=\toks24
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count285
+))) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen175
+\Gin@req@width=\dimen176
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+\pgf@x=\dimen177
+\pgf@y=\dimen178
+\pgf@xa=\dimen179
+\pgf@ya=\dimen180
+\pgf@xb=\dimen181
+\pgf@yb=\dimen182
+\pgf@xc=\dimen183
+\pgf@yc=\dimen184
+\pgf@xd=\dimen185
+\pgf@yd=\dimen186
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count286
+\c@pgf@countb=\count287
+\c@pgf@countc=\count288
+\c@pgf@countd=\count289
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count290
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-pdftex.def
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
-))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count285
-\pgfsyssoftpath@bigbuffer@items=\count286
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count291
+\pgfsyssoftpath@bigbuffer@items=\count292
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
-Package xcolor Info: Model `RGB' extended on input line 1368.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen176
-\pgfmath@count=\count287
-\pgfmath@box=\box60
-\pgfmath@toks=\toks25
-\pgfmath@stack@operand=\toks26
-\pgfmath@stack@operation=\toks27
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count288
-)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen177
-\pgf@picmaxx=\dimen178
-\pgf@picminy=\dimen179
-\pgf@picmaxy=\dimen180
-\pgf@pathminx=\dimen181
-\pgf@pathmaxx=\dimen182
-\pgf@pathminy=\dimen183
-\pgf@pathmaxy=\dimen184
-\pgf@xx=\dimen185
-\pgf@xy=\dimen186
-\pgf@yx=\dimen187
-\pgf@yy=\dimen188
-\pgf@zx=\dimen189
-\pgf@zy=\dimen190
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen191
-\pgf@path@lasty=\dimen192
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen193
-\pgf@shorten@start@additional=\dimen194
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfpic=\box61
-\pgf@hbox=\box62
-\pgf@layerbox@main=\box63
-\pgf@picture@serial@count=\count289
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen195
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
-File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen196
-\pgf@pt@y=\dimen197
-\pgf@pt@temp=\dimen198
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen199
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen256
-\pgf@sys@shading@range@num=\count290
-\pgf@shadingcount=\count291
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfexternal@startupbox=\box64
-)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))) (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
-) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen187
+\pgf@picmaxx=\dimen188
+\pgf@picminy=\dimen189
+\pgf@picmaxy=\dimen190
+\pgf@pathminx=\dimen191
+\pgf@pathmaxx=\dimen192
+\pgf@pathminy=\dimen193
+\pgf@pathmaxy=\dimen194
+\pgf@xx=\dimen195
+\pgf@xy=\dimen196
+\pgf@yx=\dimen197
+\pgf@yy=\dimen198
+\pgf@zx=\dimen199
+\pgf@zy=\dimen256
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen257
+\pgf@path@lasty=\dimen258
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen259
+\pgf@shorten@start@additional=\dimen260
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box62
+\pgf@hbox=\box63
+\pgf@layerbox@main=\box64
+\pgf@picture@serial@count=\count293
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen261
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen262
+\pgf@pt@y=\dimen263
+\pgf@pt@temp=\dimen264
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen265
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen266
+\pgf@sys@shading@range@num=\count294
+\pgf@shadingcount=\count295
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box65
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\xxcolor.sty
 Package: xxcolor 2003/10/24 ver 0.1
-\XC@nummixins=\count292
-\XC@countmixins=\count293
-) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+\XC@nummixins=\count296
+\XC@countmixins=\count297
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
-) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
- (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count298
 )
-\@linkdim=\dimen257
-\Hy@linkcounter=\count294
-\Hy@pagecounter=\count295
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+\@linkdim=\dimen267
+\Hy@linkcounter=\count299
+\Hy@pagecounter=\count300
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel languages
-) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count296
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count301
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `bookmarks' set `true' on input line 4073.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 4073.
-Package hyperref Info: Option `implicit' set `false' on input line 4073.
-Package hyperref Info: Hyper figures OFF on input line 4192.
-Package hyperref Info: Link nesting OFF on input line 4197.
-Package hyperref Info: Hyper index ON on input line 4200.
-Package hyperref Info: Plain pages OFF on input line 4207.
-Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4060.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4060.
+Package hyperref Info: Option `implicit' set `false' on input line 4060.
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
-Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count297
- (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+Package hyperref Info: Bookmarks ON on input line 4425.
+\c@Hy@tempcnt=\count302
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen258
- (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen268
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count298
-\Field@Width=\dimen259
-\Fld@charsize=\dimen260
-Package hyperref Info: Hyper figures OFF on input line 6076.
-Package hyperref Info: Link nesting OFF on input line 6081.
-Package hyperref Info: Hyper index ON on input line 6084.
-Package hyperref Info: backreferencing OFF on input line 6091.
-Package hyperref Info: Link coloring OFF on input line 6096.
-Package hyperref Info: Link coloring with OCG OFF on input line 6101.
-Package hyperref Info: PDF/A mode OFF on input line 6106.
-LaTeX Info: Redefining \ref on input line 6146.
-LaTeX Info: Redefining \pageref on input line 6150.
-\Hy@abspage=\count299
+\Fld@menulength=\count303
+\Field@Width=\dimen269
+\Fld@charsize=\dimen270
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+\Hy@abspage=\count304
 
 
 Package hyperref Message: Stopped early.
 
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
- (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count300
-\c@bookmark@seq@number=\count301
- (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
- (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+\Fld@listcount=\count305
+\c@bookmark@seq@number=\count306
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
-)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaserequires.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasefont.sty (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaserequires.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecompatibility.sty) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefont.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks28
 \symAMSa=\mathgroup4
@@ -370,162 +385,172 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+)) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\sansmathaccent.sty
 Package: sansmathaccent 2020/01/31
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
-Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
-Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
-))))) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.sty
+Package: scrlfile 2022/10/12 v3.38 KOMA-Script package (file load hooks)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
+Package: scrlfile-hook 2022/10/12 v3.38 KOMA-Script package (using LaTeX hooks)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2022/10/12 v3.38 KOMA-Script package (logo)
+))))) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetranslator.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.sty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
-)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
-\beamer@argscount=\count302
-\beamer@lastskipcover=\skip50
-\beamer@trivlistdepth=\count303
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetitle.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasesection.sty
-\c@lecture=\count304
-\c@part=\count305
-\c@section=\count306
-\c@subsection=\count307
-\c@subsubsection=\count308
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
-\beamer@framebox=\box65
-\beamer@frametitlebox=\box66
-\beamer@zoombox=\box67
-\beamer@zoomcount=\count309
-\beamer@zoomframecount=\count310
-\beamer@frametextheight=\dimen261
-\c@subsectionslide=\count311
-\beamer@frametopskip=\skip51
-\beamer@framebottomskip=\skip52
-\beamer@frametopskipautobreak=\skip53
-\beamer@framebottomskipautobreak=\skip54
+)) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemisc.sty) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetwoscreens.sty) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseoverlay.sty
+\beamer@argscount=\count307
+\beamer@lastskipcover=\skip51
+\beamer@trivlistdepth=\count308
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetitle.sty) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasesection.sty
+\c@lecture=\count309
+\c@part=\count310
+\c@section=\count311
+\c@subsection=\count312
+\c@subsubsection=\count313
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframe.sty
+\beamer@framebox=\box66
+\beamer@frametitlebox=\box67
+\beamer@zoombox=\box68
+\beamer@zoomcount=\count314
+\beamer@zoomframecount=\count315
+\beamer@frametextheight=\dimen271
+\c@subsectionslide=\count316
+\beamer@frametopskip=\skip52
+\beamer@framebottomskip=\skip53
+\beamer@frametopskipautobreak=\skip54
+\beamer@framebottomskipautobreak=\skip55
 \beamer@envbody=\toks29
-\framewidth=\dimen262
-\c@framenumber=\count312
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+\framewidth=\dimen272
+\c@framenumber=\count317
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseverbatim.sty
 \beamer@verbatimfileout=\write4
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
-\beamer@splitbox=\box68
-\beamer@autobreakcount=\count313
-\beamer@autobreaklastheight=\dimen263
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframesize.sty
+\beamer@splitbox=\box69
+\beamer@autobreakcount=\count318
+\beamer@autobreaklastheight=\dimen273
 \beamer@frametitletoks=\toks30
 \beamer@framesubtitletoks=\toks31
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
-\beamer@footins=\box69
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
-\beamer@frameboxcopy=\box70
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetoc.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframecomponents.sty
+\beamer@footins=\box70
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecolor.sty) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenotes.sty
+\beamer@frameboxcopy=\box71
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetoc.sty) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetemplates.sty
 \beamer@sbttoks=\toks32
- (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
-\bmb@box=\box71
-\bmb@colorbox=\box72
-\bmb@boxwidth=\dimen264
-\bmb@boxheight=\dimen265
-\bmb@prevheight=\dimen266
-\bmb@temp=\dimen267
-\bmb@dima=\dimen268
-\bmb@dimb=\dimen269
-\bmb@prevheight=\dimen270
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseauxtemplates.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseboxes.sty
+\bmb@box=\box72
+\bmb@colorbox=\box73
+\bmb@boxwidth=\dimen274
+\bmb@boxheight=\dimen275
+\bmb@prevheight=\dimen276
+\bmb@temp=\dimen277
+\bmb@dima=\dimen278
+\bmb@dimb=\dimen279
+\bmb@prevheight=\dimen280
 )
-\beamer@blockheadheight=\dimen271
-)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+\beamer@blockheadheight=\dimen281
+)) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaselocalstructure.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks33
 )
-\beamer@bibiconwidth=\skip55
-\c@figure=\count314
-\c@table=\count315
-\abovecaptionskip=\skip56
-\belowcaptionskip=\skip57
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
-\beamer@section@min@dim=\dimen272
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2021/10/15 v2.17l AMS math features
-\@mathmargin=\skip58
+\beamer@bibiconwidth=\skip56
+\c@figure=\count319
+\c@table=\count320
+\abovecaptionskip=\skip57
+\belowcaptionskip=\skip58
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenavigation.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenavigationsymbols.tex)
+\beamer@section@min@dim=\dimen282
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetheorems.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip59
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks34
-\ex@=\dimen273
-)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+\ex@=\dimen283
+)) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen274
-) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2021/08/26 v2.02 operator names
+\pmbraise@=\dimen284
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count316
+\inf@bad=\count321
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count317
-\leftroot@=\count318
+\uproot@=\count322
+\leftroot@=\count323
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count319
-\DOTSCASE@=\count320
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count324
+\DOTSCASE@=\count325
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box73
-\strutbox@=\box74
-\big@size=\dimen275
+\Mathstrutbox@=\box74
+\strutbox@=\box75
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen285
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count321
-\c@MaxMatrixCols=\count322
+\macc@depth=\count326
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count327
 \dotsspace@=\muskip17
-\c@parentequation=\count323
-\dspbrk@lvl=\count324
+\c@parentequation=\count328
+\dspbrk@lvl=\count329
 \tag@help=\toks35
-\row@=\count325
-\column@=\count326
-\maxfields@=\count327
+\row@=\count330
+\column@=\count331
+\maxfields@=\count332
 \andhelp@=\toks36
-\eqnshift@=\dimen276
-\alignsep@=\dimen277
-\tagshift@=\dimen278
-\tagwidth@=\dimen279
-\totwidth@=\dimen280
-\lineht@=\dimen281
+\eqnshift@=\dimen286
+\alignsep@=\dimen287
+\tagshift@=\dimen288
+\tagwidth@=\dimen289
+\totwidth@=\dimen290
+\lineht@=\dimen291
 \@envbody=\toks37
-\multlinegap=\skip59
-\multlinetaggap=\skip60
+\multlinegap=\skip60
+\multlinetaggap=\skip61
 \mathdisplay@stack=\toks38
-LaTeX Info: Redefining \[ on input line 2938.
-LaTeX Info: Redefining \] on input line 2939.
-) (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks39
 \thm@bodyfont=\toks40
 \thm@headfont=\toks41
 \thm@notefont=\toks42
 \thm@headpunct=\toks43
-\thm@preskip=\skip61
-\thm@postskip=\skip62
-\thm@headsep=\skip63
+\thm@preskip=\skip62
+\thm@postskip=\skip63
+\thm@headsep=\skip64
 \dth@everypar=\toks44
 )
-\c@theorem=\count328
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemedefault.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
-\beamer@dima=\dimen282
-\beamer@dimb=\dimen283
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+\c@theorem=\count333
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasethemes.sty)) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemedefault.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthemedefault.sty) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthemedefault.sty) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthemedefault.sty
+\beamer@dima=\dimen292
+\beamer@dimb=\dimen293
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthemedefault.sty))) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks45
 \inpenc@posthook=\toks46
-) (/usr/share/texlive/texmf-dist/tex/latex/heuristica/heuristica.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/heuristica\heuristica.sty
 Package: heuristica 2017/03/14 v1.09
- `heuristica' v1.09, 2017/03/14 Style file (m_sharpe) for Heuristica (a_panov, m_sharpe), an extension of Utopia. (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+ `heuristica' v1.09, 2017/03/14 Style file (m_sharpe) for Heuristica (a_panov, m_sharpe), an extension of Utopia. (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
- (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
-File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
+File: t2aenc.def 2022/06/11 v1.0j Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
- (/usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
-File: t2aenc.dfu 2021/06/21 v1.2n UTF-8 support
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/base\t2aenc.dfu
+File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00AB (decimal 171)
@@ -711,7 +736,9 @@ File: t2aenc.dfu 2021/06/21 v1.2n UTF-8 support
    defining Unicode char U+2031 (decimal 8241)
    defining Unicode char U+2116 (decimal 8470)
    defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+3008 (decimal 12296)
    defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+3009 (decimal 12297)
    defining Unicode char U+2423 (decimal 9251)
    defining Unicode char U+27E8 (decimal 10216)
    defining Unicode char U+27E9 (decimal 10217)
@@ -722,12 +749,12 @@ File: t2aenc.dfu 2021/06/21 v1.2n UTF-8 support
    defining Unicode char U+FB04 (decimal 64260)
    defining Unicode char U+FB05 (decimal 64261)
    defining Unicode char U+FB06 (decimal 64262)
-)) (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2benc.def
-File: t2benc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2benc.def
+File: t2benc.def 2022/06/11 v1.0j Cyrillic encoding definition file
 Now handling font encoding T2B ...
 ... processing UTF-8 mapping file for font encoding T2B
- (/usr/share/texlive/texmf-dist/tex/latex/base/t2benc.dfu
-File: t2benc.dfu 2021/06/21 v1.2n UTF-8 support
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/base\t2benc.dfu
+File: t2benc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00AB (decimal 171)
@@ -907,7 +934,9 @@ File: t2benc.dfu 2021/06/21 v1.2n UTF-8 support
    defining Unicode char U+2031 (decimal 8241)
    defining Unicode char U+2116 (decimal 8470)
    defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+3008 (decimal 12296)
    defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+3009 (decimal 12297)
    defining Unicode char U+2423 (decimal 9251)
    defining Unicode char U+27E8 (decimal 10216)
    defining Unicode char U+27E9 (decimal 10217)
@@ -918,12 +947,12 @@ File: t2benc.dfu 2021/06/21 v1.2n UTF-8 support
    defining Unicode char U+FB04 (decimal 64260)
    defining Unicode char U+FB05 (decimal 64261)
    defining Unicode char U+FB06 (decimal 64262)
-)) (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2cenc.def
-File: t2cenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2cenc.def
+File: t2cenc.def 2022/06/11 v1.0j Cyrillic encoding definition file
 Now handling font encoding T2C ...
 ... processing UTF-8 mapping file for font encoding T2C
- (/usr/share/texlive/texmf-dist/tex/latex/base/t2cenc.dfu
-File: t2cenc.dfu 2021/06/21 v1.2n UTF-8 support
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/base\t2cenc.dfu
+File: t2cenc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00AB (decimal 171)
@@ -1099,7 +1128,9 @@ File: t2cenc.dfu 2021/06/21 v1.2n UTF-8 support
    defining Unicode char U+2031 (decimal 8241)
    defining Unicode char U+2116 (decimal 8470)
    defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+3008 (decimal 12296)
    defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+3009 (decimal 12297)
    defining Unicode char U+2423 (decimal 9251)
    defining Unicode char U+27E8 (decimal 10216)
    defining Unicode char U+27E9 (decimal 10217)
@@ -1110,12 +1141,12 @@ File: t2cenc.dfu 2021/06/21 v1.2n UTF-8 support
    defining Unicode char U+FB04 (decimal 64260)
    defining Unicode char U+FB05 (decimal 64261)
    defining Unicode char U+FB06 (decimal 64262)
-)) (/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1enc.def
-File: ly1enc.def 2009/07/22 v0.7 TeX 'n ANSI encoding (DPC/KB)
+)) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/ly1\ly1enc.def
+File: ly1enc.def 2022/06/11 v0.8 TeX 'n ANSI encoding (DPC/KB)
 Now handling font encoding LY1 ...
 ... processing UTF-8 mapping file for font encoding LY1
- (/usr/share/texlive/texmf-dist/tex/latex/base/ly1enc.dfu
-File: ly1enc.dfu 2021/06/21 v1.2n UTF-8 support
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/base\ly1enc.dfu
+File: ly1enc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A2 (decimal 162)
@@ -1241,11 +1272,11 @@ File: ly1enc.dfu 2021/06/21 v1.2n UTF-8 support
    defining Unicode char U+FB04 (decimal 64260)
    defining Unicode char U+FB05 (decimal 64261)
    defining Unicode char U+FB06 (decimal 64262)
-))) (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+))) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
-) (/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
@@ -1259,223 +1290,231 @@ LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 )
 LaTeX Info: Redefining \textin on input line 29.
- (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
- (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks47
 \XKV@tempa@toks=\toks48
 )
-\XKV@depth=\count329
+\XKV@depth=\count334
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+))) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+Heuristica-TLF on input line 112.
- (/usr/share/texlive/texmf-dist/tex/latex/heuristica/T1Heuristica-TLF.fd
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/heuristica\t1heuristica-tlf.fd
 File: T1Heuristica-TLF.fd 2015/01/04 (autoinst) Font definitions for T1/Heuristica-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 112.
-) (/usr/share/texlive/texmf-dist/tex/latex/newtx/newtxmath.sty
-Package: newtxmath 2021/12/18 v1.7
- `newtxmath' v1.7, 2021/12/18 Math macros based originally on txfonts (msharpe) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
+Package: newtxmath 2022/01/16 v1.71
+ `newtxmath' v1.71, 2022/01/16 Math macros based originally on txfonts (msharpe) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/centernot.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
 Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 )
-\tx@cntz=\count330
- (/usr/share/texlive/texmf-dist/tex/generic/kastrup/binhex.tex)
-\tx@Isdigit=\count331
-\tx@IsAlNum=\count332
+\tx@cntz=\count335
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+\tx@Isdigit=\count336
+\tx@IsAlNum=\count337
 \tx@tA=\toks49
 \tx@tB=\toks50
 \tx@su=\read3
 
 amsthm NOT loaded
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 373.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 376.
 LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 373.
+(Font)              `operators' in the math version `normal' on input line 376.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> T1/Heuristica-TLF/m/n on input line 373.
+(Font)                  OT1/cmr/m/n --> T1/Heuristica-TLF/m/n on input line 376.
 LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 373.
+(Font)              `operators' in the math version `bold' on input line 376.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/Heuristica-TLF/m/n on input line 373.
+(Font)                  OT1/cmr/bx/n --> T1/Heuristica-TLF/m/n on input line 376.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  T1/Heuristica-TLF/m/n --> T1/Heuristica-TLF/b/n on input line 374.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 380.
+(Font)                  T1/Heuristica-TLF/m/n --> T1/Heuristica-TLF/b/n on input line 377.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 383.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 380.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 383.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 380.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 381.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 383.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 384.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/Heuristica-TLF/m/it on input line 381.
+(Font)                  OT1/cmr/m/it --> T1/Heuristica-TLF/m/it on input line 384.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/Heuristica-TLF/m/it on input line 381.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 382.
+(Font)                  OT1/cmr/bx/it --> T1/Heuristica-TLF/m/it on input line 384.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 385.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 382.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 385.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 382.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 384.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 385.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 387.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/Heuristica-TLF/b/n on input line 384.
+(Font)                  OT1/cmr/bx/n --> T1/Heuristica-TLF/b/n on input line 387.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/Heuristica-TLF/b/n on input line 384.
+(Font)                  OT1/cmr/bx/n --> T1/Heuristica-TLF/b/n on input line 387.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/Heuristica-TLF/m/it --> T1/Heuristica-TLF/b/it on input line 385.
+(Font)                  T1/Heuristica-TLF/m/it --> T1/Heuristica-TLF/b/it on input line 388.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 386.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 389.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 387.
-LaTeX Font Info:    Redeclaring symbol font `letters' on input line 428.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 390.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 431.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/cmm/m/it --> OML/zutmi/m/it on input line 428.
+(Font)                  OML/cmm/m/it --> OML/zutmi/m/it on input line 431.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/cmm/b/it --> OML/zutmi/m/it on input line 428.
+(Font)                  OML/cmm/b/it --> OML/zutmi/m/it on input line 431.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/zutmi/m/it --> OML/zutmi/b/it on input line 429.
+(Font)                  OML/zutmi/m/it --> OML/zutmi/b/it on input line 432.
 \symlettersA=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
-(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 544.
-LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 546.
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 547.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 549.
 Now handling font encoding LMS ...
 ... no UTF-8 mapping file for font encoding LMS
-LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 565.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 568.
 LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 565.
+(Font)              `symbols' in the math version `normal' on input line 568.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 565.
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 568.
 LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 565.
+(Font)              `symbols' in the math version `bold' on input line 568.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 565.
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 568.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 566.
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 569.
 \symAMSm=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
-(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 591.
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 594.
 \symsymbolsC=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
-(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 612.
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 615.
 Now handling font encoding LMX ...
 ... no UTF-8 mapping file for font encoding LMX
-LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 625.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 628.
 LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 625.
+(Font)              `largesymbols' in the math version `normal' on input line 628.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 625.
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 628.
 LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 625.
+(Font)              `largesymbols' in the math version `bold' on input line 628.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 625.
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 628.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 626.
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 629.
 \symlargesymbolsTXA=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
-(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 640.
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 643.
 \tx@sbptoks=\toks51
-LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 863.
-LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 864.
-LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 865.
-LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 866.
-LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 867.
-LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 868.
-LaTeX Font Info:    Redeclaring math delimiter \langle on input line 869.
-LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 871.
-LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 875.
-LaTeX Font Info:    Redeclaring math delimiter \vert on input line 876.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 947.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 948.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 964.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 965.
-LaTeX Font Info:    Redeclaring math accent \check on input line 966.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 967.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 968.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 969.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 970.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 971.
-LaTeX Font Info:    Redeclaring math accent \vec on input line 2017.
-LaTeX Info: Redefining \Bbbk on input line 2807.
-LaTeX Info: Redefining \not on input line 2956.
-LaTeX Info: Redefining \textsquare on input line 2986.
-LaTeX Info: Redefining \openbox on input line 2988.
-) (/usr/share/texlive/texmf-dist/tex/latex/fira/FiraSans.sty
-Package: FiraSans 2019/10/10 (Bob Tennent and autoinst) Style file for Fira Sans fonts.
-) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/01/26 3.70 The Babel package
-\babel@savecnt=\count333
-\U@D=\dimen284
-\l@unhyphenated=\language87
- (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 866.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 867.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 868.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 869.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 870.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 871.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 872.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 874.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 878.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 879.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 950.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 951.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 967.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 968.
+LaTeX Font Info:    Redeclaring math accent \check on input line 969.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 970.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 971.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 972.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 973.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 974.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 2020.
+LaTeX Info: Redefining \Bbbk on input line 2810.
+LaTeX Info: Redefining \not on input line 2959.
+LaTeX Info: Redefining \textsquare on input line 2989.
+LaTeX Info: Redefining \openbox on input line 2991.
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/fira\FiraSans.sty
+Package: FiraSans 2022/09/17 (Bob Tennent and autoinst) Style file for Fira Sans fonts.
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/02/13 3.86 The Babel package
+\babel@savecnt=\count338
+\U@D=\dimen294
+\l@unhyphenated=\language79
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read4
-LaTeX Info: Redefining \textlatin on input line 3967.
-\bbl@dirlevel=\count334
- (/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+LaTeX Info: Redefining \textlatin on input line 4088.
+\bbl@dirlevel=\count339
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks52
-\es@quotdepth=\count335
+\es@quotdepth=\count340
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
-)) (/usr/share/texlive/texmf-dist/tex/latex/background/background.sty
+)) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 11.
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/background\background.sty
 Package: background 2014/03/04 v2.1 background material
- (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box75
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen285
-\pgf@nodesepend=\dimen286
-) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
-)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen287
-\pgffor@skip=\dimen288
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box76
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen295
+\pgf@nodesepend=\dimen296
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen297
+\pgffor@skip=\dimen298
 \pgffor@stack=\toks53
 \pgffor@toks=\toks54
-)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count336
-\pgfplotmarksize=\dimen289
+)) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count341
+\pgfplotmarksize=\dimen299
 )
-\tikz@lastx=\dimen290
-\tikz@lasty=\dimen291
-\tikz@lastxsaved=\dimen292
-\tikz@lastysaved=\dimen293
-\tikz@lastmovetox=\dimen294
-\tikz@lastmovetoy=\dimen295
-\tikzleveldistance=\dimen296
-\tikzsiblingdistance=\dimen297
-\tikz@figbox=\box76
-\tikz@figbox@bg=\box77
-\tikz@tempbox=\box78
-\tikz@tempbox@bg=\box79
-\tikztreelevel=\count337
-\tikznumberofchildren=\count338
-\tikznumberofcurrentchild=\count339
-\tikz@fig@count=\count340
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count341
-\pgfmatrixcurrentcolumn=\count342
-\pgf@matrix@numberofcolumns=\count343
+\tikz@lastx=\dimen300
+\tikz@lasty=\dimen301
+\tikz@lastxsaved=\dimen302
+\tikz@lastysaved=\dimen303
+\tikz@lastmovetox=\dimen304
+\tikz@lastmovetoy=\dimen305
+\tikzleveldistance=\dimen306
+\tikzsiblingdistance=\dimen307
+\tikz@figbox=\box77
+\tikz@figbox@bg=\box78
+\tikz@tempbox=\box79
+\tikz@tempbox@bg=\box80
+\tikztreelevel=\count342
+\tikznumberofchildren=\count343
+\tikznumberofcurrentchild=\count344
+\tikz@fig@count=\count345
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count346
+\pgfmatrixcurrentcolumn=\count347
+\pgf@matrix@numberofcolumns=\count348
 )
-\tikz@expandcount=\count344
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))) (/usr/share/texlive/texmf-dist/tex/latex/everypage/everypage.sty
+\tikz@expandcount=\count349
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/everypage\everypage.sty
 Package: everypage 2020/10/17 R2.0b Hooks to run on every page
 
 
@@ -1493,93 +1532,93 @@ Package everypage Warning: You appear to be running a version of LaTeX
 (everypage)                If truly needed, Use `everypage-1x` to force the
 (everypage)                loading of an older code base.
 
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
 Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 \AP@output=\toks55
-\AP@partial=\box80
-\AP@footins=\box81
-)) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count345
-\lst@gtempboxa=\box82
+\AP@partial=\box81
+\AP@footins=\box82
+)) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count350
+\lst@gtempboxa=\box83
 \lst@token=\toks56
-\lst@length=\count346
-\lst@currlwidth=\dimen298
-\lst@column=\count347
-\lst@pos=\count348
-\lst@lostspace=\dimen299
-\lst@width=\dimen300
-\lst@newlines=\count349
-\lst@lineno=\count350
-\lst@maxwidth=\dimen301
- (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count351
-\lst@skipnumbers=\count352
-\lst@framebox=\box83
-) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2020/03/24 1.8d listings configuration
+\lst@length=\count351
+\lst@currlwidth=\dimen308
+\lst@column=\count352
+\lst@pos=\count353
+\lst@lostspace=\dimen309
+\lst@width=\dimen310
+\lst@newlines=\count354
+\lst@lineno=\count355
+\lst@maxwidth=\dimen311
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count356
+\lst@skipnumbers=\count357
+\lst@framebox=\box84
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
-Package: listings 2020/03/24 1.8d (Carsten Heinz)
- (/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
- (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2020/10/26 v3.5g Customizing captions (AR)
- (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen302
-\captionmargin@=\dimen303
-\captionwidth=\dimen304
-\caption@tempdima=\dimen305
-\caption@indent=\dimen306
-\caption@parindent=\dimen307
-\caption@hangindent=\dimen308
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen312
+\captionmargin=\dimen313
+\caption@leftmargin=\dimen314
+\caption@rightmargin=\dimen315
+\caption@width=\dimen316
+\caption@indent=\dimen317
+\caption@parindent=\dimen318
+\caption@hangindent=\dimen319
 Package caption Info: beamer document class detected.
- (/usr/share/texlive/texmf-dist/tex/latex/caption/caption-beamer.sto
-File: caption-beamer.sto 2020/08/22 v2.0 Adaption of the caption package to the beamer document classes (AR)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-beamer.sto
+File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to the beamer document classes (AR)
 ))
-\c@caption@flags=\count353
-\c@continuedfloat=\count354
+\c@caption@flags=\count358
+\c@continuedfloat=\count359
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
 Package caption Info: listings package is loaded.
 )
-\c@KVtest=\count355
-\sf@farskip=\skip64
-\sf@captopadj=\dimen309
-\sf@capskip=\skip65
-\sf@nearskip=\skip66
-\c@subfigure=\count356
-\c@subfigure@save=\count357
-\c@depth=\count358
-\c@subtable=\count359
-\c@subtable@save=\count360
-\sf@top=\skip67
-\sf@bottom=\skip68
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
-\c@tracingmulticols=\count361
-\mult@box=\box84
-\multicol@leftmargin=\dimen310
-\c@unbalance=\count362
-\c@collectmore=\count363
-\doublecol@number=\count364
-\multicoltolerance=\count365
-\multicolpretolerance=\count366
-\full@width=\dimen311
-\page@free=\dimen312
-\premulticols=\dimen313
-\postmulticols=\dimen314
-\multicolsep=\skip69
-\multicolbaselineskip=\skip70
-\partial@page=\box85
-\last@line=\box86
-\maxbalancingoverflow=\dimen315
-\mult@rightbox=\box87
-\mult@grightbox=\box88
-\mult@firstbox=\box89
-\mult@gfirstbox=\box90
-\@tempa=\box91
+\c@KVtest=\count360
+\sf@farskip=\skip65
+\sf@captopadj=\dimen320
+\sf@capskip=\skip66
+\sf@nearskip=\skip67
+\c@subfigure=\count361
+\c@subfigure@save=\count362
+\c@depth=\count363
+\c@subtable=\count364
+\c@subtable@save=\count365
+\sf@top=\skip68
+\sf@bottom=\skip69
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count366
+\mult@box=\box85
+\multicol@leftmargin=\dimen321
+\c@unbalance=\count367
+\c@collectmore=\count368
+\doublecol@number=\count369
+\multicoltolerance=\count370
+\multicolpretolerance=\count371
+\full@width=\dimen322
+\page@free=\dimen323
+\premulticols=\dimen324
+\postmulticols=\dimen325
+\multicolsep=\skip70
+\multicolbaselineskip=\skip71
+\partial@page=\box86
+\last@line=\box87
+\maxbalancingoverflow=\dimen326
+\mult@rightbox=\box88
+\mult@grightbox=\box89
+\mult@firstbox=\box90
+\mult@gfirstbox=\box91
 \@tempa=\box92
 \@tempa=\box93
 \@tempa=\box94
@@ -1615,154 +1654,162 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \@tempa=\box124
 \@tempa=\box125
 \@tempa=\box126
-\c@minrows=\count367
-\c@columnbadness=\count368
-\c@finalcolumnbadness=\count369
-\last@try=\dimen316
-\multicolovershoot=\dimen317
-\multicolundershoot=\dimen318
-\mult@nat@firstbox=\box127
-\colbreak@box=\box128
-\mc@col@check@num=\count370
-) (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
- (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+\@tempa=\box127
+\c@minrows=\count372
+\c@columnbadness=\count373
+\c@finalcolumnbadness=\count374
+\last@try=\dimen327
+\multicolovershoot=\dimen328
+\multicolundershoot=\dimen329
+\mult@nat@firstbox=\box128
+\colbreak@box=\box129
+\mc@col@check@num=\count375
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
-) (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
 Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
- (/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
-Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
-\collectedbox=\box129
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box130
 )
-\tc@llx=\dimen319
-\tc@lly=\dimen320
-\tc@urx=\dimen321
-\tc@ury=\dimen322
+\tc@llx=\dimen330
+\tc@lly=\dimen331
+\tc@urx=\dimen332
+\tc@ury=\dimen333
 Package trimclip Info: Using driver 'tc-pdftex.def'.
- (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen323
-\adjbox@Height=\dimen324
-\adjbox@Depth=\dimen325
-\adjbox@Totalheight=\dimen326
-\adjbox@pwidth=\dimen327
-\adjbox@pheight=\dimen328
-\adjbox@pdepth=\dimen329
-\adjbox@ptotalheight=\dimen330
- (/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count371
-) (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+\adjbox@Width=\dimen334
+\adjbox@Height=\dimen335
+\adjbox@Depth=\dimen336
+\adjbox@Totalheight=\dimen337
+\adjbox@pwidth=\dimen338
+\adjbox@pheight=\dimen339
+\adjbox@pdepth=\dimen340
+\adjbox@ptotalheight=\dimen341
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count376
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box130
-\sift@deathcycles=\count372
-\@vwid@loff=\dimen331
-\@vwid@roff=\dimen332
+\@vwid@box=\box131
+\sift@deathcycles=\count377
+\@vwid@loff=\dimen342
+\@vwid@roff=\dimen343
 ))
-\c@teorema=\count373
- (./beamerthemeccm1.sty (/usr/share/texlive/texmf-dist/tex/latex/textpos/textpos.sty
-Package: textpos 2020/09/26 v1.10
+Package hyperref Info: Option `colorlinks' set `true' on input line 52.
+Package hyperref Info: Option `breaklinks' set `true' on input line 52.
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 52.
+\c@teorema=\count378
+ (beamerthemeccm1.sty (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/textpos\textpos.sty
+Package: textpos 2022/07/23 v1.10.1
+Package textpos Info: choosing support for LaTeX3 on input line 60.
+\TP@textbox=\box132
+\TP@holdbox=\box133
+\TPHorizModule=\dimen344
+\TPVertModule=\dimen345
+\TP@margin=\dimen346
+\TP@absmargin=\dimen347
 
-Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
-Package textpos Info: choosing support for LaTeX3 on input line 61.
-\TP@textbox=\box131
-\TP@holdbox=\box132
-\TPHorizModule=\dimen333
-\TPVertModule=\dimen334
-\TP@margin=\dimen335
-\TP@absmargin=\dimen336
 Grid set 16 x 16 = 22.7622pt x 17.07166pt
-\TPboxrulesize=\dimen337
-\TP@ox=\dimen338
-\TP@oy=\dimen339
+\TPboxrulesize=\dimen348
+\TP@ox=\dimen349
+\TP@oy=\dimen350
 \TP@tbargs=\toks57
 TextBlockOrigin set to 0pt x 0pt
-) (/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
-Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
-) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
-Package: setspace 2011/12/19 v6.7a set line spacing
-) (/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty) (./beamerouterthemeccm1.sty) (./beamerinnerthemeccm1.sty) (./beamercolorthemeccm1.sty))
-LaTeX Font Info:    Trying to load font information for T1+FiraSans-OsF on input line 68.
- (/usr/share/texlive/texmf-dist/tex/latex/fira/T1FiraSans-OsF.fd
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2023/04/12 v2.0b lastpage: 2.09 or 2e? (HMM)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+Package: lastpage2e 2023/04/12 v2.0b Decide which 2e lastpage version to use (HMM)
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern.sty
+Package: lastpagemodern 2023-04-12 v2.0b Refers to last page's name (HMM; JPG)
+) 
+)) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty) (beamerouterthemeccm1.sty) (beamerinnerthemeccm1.sty) (beamercolorthemeccm1.sty))
+LaTeX Font Info:    Trying to load font information for T1+FiraSans-OsF on input line 79.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/fira\t1firasans-osf.fd
 File: T1FiraSans-OsF.fd 2019/10/10 (autoinst) Font definitions for T1/FiraSans-OsF.
 )
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <10.95> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 68.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 79.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 9.30756pt on input line 68.
- (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count374
-\l__pdf_internal_box=\box133
-) (./main.aux
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
+(Font)              scaled to size 9.30756pt on input line 79.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count379
+\l__pdf_internal_box=\box134
+) (main.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/zutmi/m/it on input line 68.
-LaTeX Font Info:    Trying to load font information for OML+zutmi on input line 68.
- (/usr/share/texlive/texmf-dist/tex/latex/newtx/omlzutmi.fd
+LaTeX Font Info:    Checking defaults for OML/zutmi/m/it on input line 79.
+LaTeX Font Info:    Trying to load font information for OML+zutmi on input line 79.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlzutmi.fd
 File: omlzutmi.fd 2014/04/14 Fontinst v1.933 font definitions for OML/zutmi.
 )
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 68.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 68.
- (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxexa.fd
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 79.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 79.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 68.
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 68.
- (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 79.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 79.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 68.
-LaTeX Font Info:    Trying to load font information for T2B+cmr on input line 68.
- (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2bcmr.fd
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 79.
+LaTeX Font Info:    Trying to load font information for T2B+cmr on input line 79.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2bcmr.fd
 File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 68.
-LaTeX Font Info:    Trying to load font information for T2C+cmr on input line 68.
- (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2ccmr.fd
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 79.
+LaTeX Font Info:    Trying to load font information for T2C+cmr on input line 79.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2ccmr.fd
 File: t2ccmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 68.
-LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 68.
- (/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 79.
+LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 79.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/ly1\ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 68.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 68.
- (/usr/share/texlive/texmf-dist/tex/latex/newtx/lmsntxsy.fd
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 79.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 79.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 68.
-LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 68.
- (/usr/share/texlive/texmf-dist/tex/latex/newtx/lmxntxexx.fd
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 79.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 79.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    ... okay on input line 79.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1798,231 +1845,218 @@ LaTeX Font Info:    ... okay on input line 68.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count375
-\scratchdimen=\dimen340
-\scratchbox=\box134
-\nofMPsegments=\count376
-\nofMParguments=\count377
+\scratchcounter=\count380
+\scratchdimen=\dimen351
+\scratchbox=\box135
+\nofMPsegments=\count381
+\nofMParguments=\count382
 \everyMPshowfont=\toks58
-\MPscratchCnt=\count378
-\MPscratchDim=\dimen341
-\MPnumerator=\count379
-\makeMPintoPDFobject=\count380
+\MPscratchCnt=\count383
+\MPscratchDim=\dimen352
+\MPnumerator=\count384
+\makeMPintoPDFobject=\count385
 \everyMPtoPDFconversion=\toks59
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 68.
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
- (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count381
-)
-LaTeX Info: Redefining \ref on input line 68.
-LaTeX Info: Redefining \pageref on input line 68.
-LaTeX Info: Redefining \nameref on input line 68.
- (./main.out) (./main.out)
+Package hyperref Info: Link coloring ON on input line 79.
+ (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 68.
+(Font)              `operators' in the math version `normal' on input line 79.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  T1/Heuristica-TLF/m/n --> OT1/cmss/m/n on input line 68.
+(Font)                  T1/Heuristica-TLF/m/n --> OT1/cmss/m/n on input line 79.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 68.
+(Font)              `operators' in the math version `bold' on input line 79.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  T1/Heuristica-TLF/b/n --> OT1/cmss/b/n on input line 68.
+(Font)                  T1/Heuristica-TLF/b/n --> OT1/cmss/b/n on input line 79.
 \symnumbers=\mathgroup10
 \sympureletters=\mathgroup11
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/Heuristica-TLF/m/n on input line 68.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 68.
+(Font)                  OT1/cmss/m/n --> T1/Heuristica-TLF/m/n on input line 79.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  T1/Heuristica-TLF/b/n --> T1/FiraSans-OsF/b/n on input line 68.
+(Font)                  T1/Heuristica-TLF/b/n --> T1/FiraSans-OsF/b/n on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/Heuristica-TLF/b/n --> T1/FiraSans-OsF/b/n on input line 68.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 68.
+(Font)                  T1/Heuristica-TLF/b/n --> T1/FiraSans-OsF/b/n on input line 79.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  T1/cmss/m/n --> T1/FiraSans-OsF/m/n on input line 68.
+(Font)                  T1/cmss/m/n --> T1/FiraSans-OsF/m/n on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/b/n --> T1/FiraSans-OsF/m/n on input line 68.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 68.
+(Font)                  T1/cmss/b/n --> T1/FiraSans-OsF/m/n on input line 79.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  T1/Heuristica-TLF/m/it --> T1/FiraSans-OsF/m/it on input line 68.
+(Font)                  T1/Heuristica-TLF/m/it --> T1/FiraSans-OsF/m/it on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/Heuristica-TLF/b/it --> T1/FiraSans-OsF/m/it on input line 68.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 68.
+(Font)                  T1/Heuristica-TLF/b/it --> T1/FiraSans-OsF/m/it on input line 79.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/m/n on input line 68.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/m/n on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/b/n --> T1/cmtt/m/n on input line 68.
+(Font)                  T1/cmtt/b/n --> T1/cmtt/m/n on input line 79.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/FiraSans-OsF/m/n --> T1/FiraSans-OsF/b/n on input line 68.
+(Font)                  T1/FiraSans-OsF/m/n --> T1/FiraSans-OsF/b/n on input line 79.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/FiraSans-OsF/m/it --> T1/FiraSans-OsF/b/it on input line 68.
+(Font)                  T1/FiraSans-OsF/m/it --> T1/FiraSans-OsF/b/it on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/Heuristica-TLF/b/n on input line 68.
+(Font)                  OT1/cmss/b/n --> T1/Heuristica-TLF/b/n on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/FiraSans-OsF/b/n --> T1/FiraSans-OsF/b/n on input line 68.
+(Font)                  T1/FiraSans-OsF/b/n --> T1/FiraSans-OsF/b/n on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/FiraSans-OsF/m/n --> T1/FiraSans-OsF/b/n on input line 68.
+(Font)                  T1/FiraSans-OsF/m/n --> T1/FiraSans-OsF/b/n on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/FiraSans-OsF/m/it --> T1/FiraSans-OsF/b/it on input line 68.
+(Font)                  T1/FiraSans-OsF/m/it --> T1/FiraSans-OsF/b/it on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 68.
- (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 79.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
-) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-bibliography-dictionary-English.dict
 Dictionary: translator-bibliography-dictionary, Language: English 
-) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-environment-dictionary-English.dict
 Dictionary: translator-environment-dictionary, Language: English 
-) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-months-dictionary-English.dict
 Dictionary: translator-months-dictionary, Language: English 
-) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-numbers-dictionary-English.dict
 Dictionary: translator-numbers-dictionary, Language: English 
-) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
+) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-\c@mv@tabular=\count382
-\c@mv@boldtabular=\count383
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
-\c@lstlisting=\count384
+LaTeX Info: Command `\dddot' is already robust on input line 79.
+LaTeX Info: Command `\ddddot' is already robust on input line 79.
+\c@mv@tabular=\count386
+\c@mv@boldtabular=\count387
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+\c@lstlisting=\count388
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package lastpage Info: Please have a look at the pageslts package at
-(lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 68.
- (./main.nav)
+ (main.nav)
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <6> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 68.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 79.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 5.10004pt on input line 68.
-<images/Logo_UTN.png, id=89, 974.1996pt x 278.2395pt>
+(Font)              scaled to size 5.10004pt on input line 79.
+<images/Logo_UTN.png, id=88, 974.1996pt x 278.2395pt>
 File: images/Logo_UTN.png Graphic file (type png)
 <use images/Logo_UTN.png>
-Package pdftex.def Info: images/Logo_UTN.png  used on input line 78.
+Package pdftex.def Info: images/Logo_UTN.png  used on input line 89.
 (pdftex.def)             Requested size: 85.35826pt x 24.37816pt.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <24.88> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 78.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 89.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 21.14815pt on input line 78.
+(Font)              scaled to size 21.14815pt on input line 89.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <37.32> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 78.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 89.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 31.72223pt on input line 78.
+(Font)              scaled to size 31.72223pt on input line 89.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <37.32> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 78.
+(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 89.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 31.72223pt on input line 78.
+(Font)              scaled to size 31.72223pt on input line 89.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <10> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 78.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 89.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 8.50006pt on input line 78.
+(Font)              scaled to size 8.50006pt on input line 89.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <8> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 78.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 89.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 6.80005pt on input line 78.
+(Font)              scaled to size 6.80005pt on input line 89.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <8> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 78.
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 89.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 6.80005pt on input line 78.
-<images/FONDO_AL_15.png, id=91, 487.0998pt x 366.168pt>
+(Font)              scaled to size 6.80005pt on input line 89.
+<images/FONDO_AL_15.png, id=90, 487.0998pt x 366.168pt>
 File: images/FONDO_AL_15.png Graphic file (type png)
 <use images/FONDO_AL_15.png>
-Package pdftex.def Info: images/FONDO_AL_15.png  used on input line 78.
+Package pdftex.def Info: images/FONDO_AL_15.png  used on input line 89.
 (pdftex.def)             Requested size: 364.19536pt x 273.77605pt.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <4> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 78.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 89.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 3.40002pt on input line 78.
+(Font)              scaled to size 3.40002pt on input line 89.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/FONDO_AL_15.png> <./images/Logo_UTN.png>] (./main.toc
+{C:/Users/paoto/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/FONDO_AL_15.png> <./images/Logo_UTN.png>] (main.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
-<images/FONDO_AL_7.png, id=121, 487.0998pt x 366.168pt>
+<images/FONDO_AL_7.png, id=120, 487.0998pt x 366.168pt>
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 106.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 117.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
  [2
 
  <./images/FONDO_AL_7.png>]
-<images/cap-one.png, id=149, 462.97969pt x 320.69812pt>
+<images/cap-one.png, id=148, 462.97969pt x 320.69812pt>
 File: images/cap-one.png Graphic file (type png)
 <use images/cap-one.png>
-Package pdftex.def Info: images/cap-one.png  used on input line 118.
+Package pdftex.def Info: images/cap-one.png  used on input line 129.
 (pdftex.def)             Requested size: 245.83282pt x 170.28726pt.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <14.4> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 118.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 129.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 12.24008pt on input line 118.
+(Font)              scaled to size 12.24008pt on input line 129.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <20.74> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 118.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 129.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 17.62912pt on input line 118.
+(Font)              scaled to size 17.62912pt on input line 129.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <20.74> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 118.
+(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 129.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 17.62912pt on input line 118.
+(Font)              scaled to size 17.62912pt on input line 129.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 118.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 129.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 118.
+(Font)              size <5> substituted on input line 129.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 118.
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Trying to load font information for U+msa on input line 129.
+(C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 118.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+LaTeX Font Info:    Trying to load font information for U+msb on input line 129.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 118.
- (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxmia.fd
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 129.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 118.
- (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsym.fd
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 129.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 118.
- (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsyc.fd
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 129.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <6.2> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 118.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 129.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 5.27003pt on input line 118.
+(Font)              scaled to size 5.27003pt on input line 129.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <5.5> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 118.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 129.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 4.67503pt on input line 118.
+(Font)              scaled to size 4.67503pt on input line 129.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <6.2> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 118.
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 129.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 5.27003pt on input line 118.
+(Font)              scaled to size 5.27003pt on input line 129.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <5.5> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 118.
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 129.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 4.67503pt on input line 118.
+(Font)              scaled to size 4.67503pt on input line 129.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [] [][][][][][] 
@@ -2033,16 +2067,16 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
  <./images/cap-one.png>]
 File: images/cap-one.png Graphic file (type png)
 <use images/cap-one.png>
-Package pdftex.def Info: images/cap-one.png  used on input line 118.
+Package pdftex.def Info: images/cap-one.png  used on input line 129.
 (pdftex.def)             Requested size: 245.83282pt x 170.28726pt.
-<images/cap-two.png, id=156, 470.85pt x 325.434pt>
+<images/cap-two.png, id=155, 470.85pt x 325.434pt>
 File: images/cap-two.png Graphic file (type png)
 <use images/cap-two.png>
-Package pdftex.def Info: images/cap-two.png  used on input line 118.
+Package pdftex.def Info: images/cap-two.png  used on input line 129.
 (pdftex.def)             Requested size: 245.83282pt x 169.91191pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 118.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 129.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2052,26 +2086,26 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [4
 
  <./images/cap-two.png>]
-<images/logo_git.png, id=164, 1927.2pt x 805.0075pt>
+<images/logo_git.png, id=163, 1927.2pt x 805.0075pt>
 File: images/logo_git.png Graphic file (type png)
 <use images/logo_git.png>
-Package pdftex.def Info: images/logo_git.png  used on input line 134.
+Package pdftex.def Info: images/logo_git.png  used on input line 145.
 (pdftex.def)             Requested size: 92.1879pt x 38.4962pt.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <6.1> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 134.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 145.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 5.18503pt on input line 134.
+(Font)              scaled to size 5.18503pt on input line 145.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <10.95> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 134.
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 145.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 9.30756pt on input line 134.
+(Font)              scaled to size 9.30756pt on input line 145.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <6.1> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 134.
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 145.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 5.18503pt on input line 134.
+(Font)              scaled to size 5.18503pt on input line 145.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 134.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 145.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2081,23 +2115,23 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [5
 
  <./images/logo_git.png>]
-<images/git-central.png, id=174, 240.9pt x 188.8656pt>
+<images/git-central.png, id=173, 240.9pt x 188.8656pt>
 File: images/git-central.png Graphic file (type png)
 <use images/git-central.png>
-Package pdftex.def Info: images/git-central.png  used on input line 160.
+Package pdftex.def Info: images/git-central.png  used on input line 171.
 (pdftex.def)             Requested size: 122.91406pt x 96.3634pt.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <9> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 160.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 171.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 7.65005pt on input line 160.
-<images/git-distrib.png, id=175, 240.9pt x 271.2534pt>
+(Font)              scaled to size 7.65005pt on input line 171.
+<images/git-distrib.png, id=174, 240.9pt x 271.2534pt>
 File: images/git-distrib.png Graphic file (type png)
 <use images/git-distrib.png>
-Package pdftex.def Info: images/git-distrib.png  used on input line 160.
+Package pdftex.def Info: images/git-distrib.png  used on input line 171.
 (pdftex.def)             Requested size: 122.91406pt x 138.39948pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 160.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 171.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2107,14 +2141,14 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [6
 
  <./images/git-central.png> <./images/git-distrib.png>]
-<images/git-states.png, id=182, 1044.90375pt x 714.67pt>
+<images/git-states.png, id=181, 1044.90375pt x 714.67pt>
 File: images/git-states.png Graphic file (type png)
 <use images/git-states.png>
-Package pdftex.def Info: images/git-states.png  used on input line 172.
+Package pdftex.def Info: images/git-states.png  used on input line 183.
 (pdftex.def)             Requested size: 245.83282pt x 168.13284pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 172.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 183.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2124,24 +2158,24 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [7
 
  <./images/git-states.png>]
-<images/logo_github.png, id=190, 1885.0425pt x 1626.075pt>
+<images/logo_github.png, id=189, 1885.0425pt x 1626.075pt>
 File: images/logo_github.png Graphic file (type png)
 <use images/logo_github.png>
-Package pdftex.def Info: images/logo_github.png  used on input line 189.
+Package pdftex.def Info: images/logo_github.png  used on input line 200.
 (pdftex.def)             Requested size: 61.45703pt x 52.99815pt.
-<images/logo_gitlab.png, id=191, 2007.5pt x 1819.79875pt>
+<images/logo_gitlab.png, id=190, 2007.5pt x 1819.79875pt>
 File: images/logo_gitlab.png Graphic file (type png)
 <use images/logo_gitlab.png>
-Package pdftex.def Info: images/logo_gitlab.png  used on input line 189.
+Package pdftex.def Info: images/logo_gitlab.png  used on input line 200.
 (pdftex.def)             Requested size: 92.1879pt x 83.55348pt.
-<images/logo_Bitbucket.png, id=192, 2569.6pt x 365.365pt>
+<images/logo_Bitbucket.png, id=191, 2569.6pt x 365.365pt>
 File: images/logo_Bitbucket.png Graphic file (type png)
 <use images/logo_Bitbucket.png>
-Package pdftex.def Info: images/logo_Bitbucket.png  used on input line 189.
+Package pdftex.def Info: images/logo_Bitbucket.png  used on input line 200.
 (pdftex.def)             Requested size: 122.91406pt x 17.47209pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 189.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 200.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2152,16 +2186,16 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
  <./images/logo_github.png> <./images/logo_gitlab.png> <./images/logo_Bitbucket.png>]
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <10.95> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 217.
+(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 228.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 9.30756pt on input line 217.
+(Font)              scaled to size 9.30756pt on input line 228.
 File: images/logo_github.png Graphic file (type png)
 <use images/logo_github.png>
-Package pdftex.def Info: images/logo_github.png  used on input line 217.
+Package pdftex.def Info: images/logo_github.png  used on input line 228.
 (pdftex.def)             Requested size: 98.33162pt x 84.80698pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 217.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 228.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2170,13 +2204,13 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [9
 
-] (./main.toc
+] (main.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 234.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 245.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2187,16 +2221,16 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 ]
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <12> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 240.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 251.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 10.20007pt on input line 240.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 250.
- (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+(Font)              scaled to size 10.20007pt on input line 251.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 261.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 253.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 264.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2207,47 +2241,47 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 ]
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <17.28> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 274.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 285.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 14.6881pt on input line 274.
+(Font)              scaled to size 14.6881pt on input line 285.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <12.5> not available
-(Font)              size <12> substituted on input line 274.
+(Font)              size <12> substituted on input line 285.
 
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <12.5> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 274.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 285.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 10.62508pt on input line 274.
+(Font)              scaled to size 10.62508pt on input line 285.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <9.4> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 274.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 285.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 7.99005pt on input line 274.
+(Font)              scaled to size 7.99005pt on input line 285.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <17.28> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 274.
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 285.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 14.6881pt on input line 274.
+(Font)              scaled to size 14.6881pt on input line 285.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <12.5> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 274.
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 285.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 10.62508pt on input line 274.
+(Font)              scaled to size 10.62508pt on input line 285.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <9.4> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 274.
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 285.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 7.99005pt on input line 274.
-<images/vscode.png, id=255, 603.75563pt x 314.67563pt>
+(Font)              scaled to size 7.99005pt on input line 285.
+<images/vscode.png, id=253, 603.75563pt x 314.67563pt>
 File: images/vscode.png Graphic file (type png)
 <use images/vscode.png>
-Package pdftex.def Info: images/vscode.png  used on input line 274.
+Package pdftex.def Info: images/vscode.png  used on input line 285.
 (pdftex.def)             Requested size: 184.37344pt x 96.09355pt.
 
-Overfull \hbox (30.72852pt too wide) in paragraph at lines 274--274
+Overfull \hbox (30.72852pt too wide) in paragraph at lines 285--285
  [] 
  []
 
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 274.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 285.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2259,7 +2293,7 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
  <./images/vscode.png>]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 289.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 300.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2271,7 +2305,7 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 ]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 312.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 323.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2282,10 +2316,10 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 ]
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 327.
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 338.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 333.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 344.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2297,7 +2331,7 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 ]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 351.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 362.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2309,7 +2343,7 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 ]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 370.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 381.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2320,12 +2354,12 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 ]
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <17.28> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 388.
+(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 399.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 14.6881pt on input line 388.
+(Font)              scaled to size 14.6881pt on input line 399.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 388.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 399.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2335,14 +2369,14 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [18
 
 ]
-<images/git-hash.png, id=466, 528.97626pt x 254.9525pt>
+<images/git-hash.png, id=463, 528.97626pt x 254.9525pt>
 File: images/git-hash.png Graphic file (type png)
 <use images/git-hash.png>
-Package pdftex.def Info: images/git-hash.png  used on input line 404.
+Package pdftex.def Info: images/git-hash.png  used on input line 415.
 (pdftex.def)             Requested size: 307.28987pt x 148.10596pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 404.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 415.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2352,14 +2386,14 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [19
 
  <./images/git-hash.png>]
-<images/git-fork.PNG, id=474, 349.80687pt x 70.2625pt>
+<images/git-fork.PNG, id=471, 349.80687pt x 70.2625pt>
 File: images/git-fork.PNG Graphic file (type png)
 <use images/git-fork.PNG>
-Package pdftex.def Info: images/git-fork.PNG  used on input line 416.
+Package pdftex.def Info: images/git-fork.PNG  used on input line 427.
 (pdftex.def)             Requested size: 307.28987pt x 61.7261pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 416.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 427.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2371,7 +2405,7 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
  <./images/git-fork.PNG>]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 421.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 432.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2383,7 +2417,7 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 ]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 443.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 454.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2392,13 +2426,13 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [22
 
-] (./main.toc
+] (main.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 448.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 459.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2408,14 +2442,14 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [23
 
 ]
-<images/git-branch.png, id=571, 2008.50375pt x 832.10875pt>
+<images/git-branch.png, id=567, 2008.50375pt x 832.10875pt>
 File: images/git-branch.png Graphic file (type png)
 <use images/git-branch.png>
-Package pdftex.def Info: images/git-branch.png  used on input line 467.
+Package pdftex.def Info: images/git-branch.png  used on input line 478.
 (pdftex.def)             Requested size: 215.10196pt x 89.10712pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 467.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 478.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2427,7 +2461,7 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
  <./images/git-branch.png>]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 486.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 497.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2439,7 +2473,7 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 ]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 504.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 515.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2451,7 +2485,7 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 ]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 521.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 532.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2463,7 +2497,7 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 ]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 542.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 553.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2475,7 +2509,7 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 ]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 555.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 566.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2487,7 +2521,7 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 ]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 570.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 581.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2499,7 +2533,7 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 ]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 589.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 581.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2509,19 +2543,9 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [31
 
 ]
-<images/issue.PNG, id=749, 529.98pt x 198.7425pt>
-File: images/issue.PNG Graphic file (type png)
-<use images/issue.PNG>
-Package pdftex.def Info: images/issue.PNG  used on input line 601.
-(pdftex.def)             Requested size: 307.28987pt x 115.23433pt.
-<images/issue-activity.PNG, id=750, 507.8975pt x 166.6225pt>
-File: images/issue-activity.PNG Graphic file (type png)
-<use images/issue-activity.PNG>
-Package pdftex.def Info: images/issue-activity.PNG  used on input line 601.
-(pdftex.def)             Requested size: 307.28987pt x 100.81326pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 601.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 581.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2530,25 +2554,10 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [32
 
- <./images/issue.PNG> <./images/issue-activity.PNG>]
-<images/github-desktop.jpg, id=759, 602.25pt x 200.75pt>
-File: images/github-desktop.jpg Graphic file (type jpg)
-<use images/github-desktop.jpg>
-Package pdftex.def Info: images/github-desktop.jpg  used on input line 622.
-(pdftex.def)             Requested size: 122.91406pt x 40.97021pt.
-<images/gitkraken.jpg, id=761, 1463.4675pt x 341.02406pt>
-File: images/gitkraken.jpg Graphic file (type jpg)
-<use images/gitkraken.jpg>
-Package pdftex.def Info: images/gitkraken.jpg  used on input line 622.
-(pdftex.def)             Requested size: 122.91406pt x 28.64061pt.
-<images/sourcetree.png, id=763, 1003.75pt x 250.9375pt>
-File: images/sourcetree.png Graphic file (type png)
-<use images/sourcetree.png>
-Package pdftex.def Info: images/sourcetree.png  used on input line 622.
-(pdftex.def)             Requested size: 122.91406pt x 30.72766pt.
+]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 622.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 581.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2557,38 +2566,10 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [33
 
- <./images/github-desktop.jpg> <./images/gitkraken.jpg> <./images/sourcetree.png>]
-
-LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 633.
-
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <10.5> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 633.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 8.92506pt on input line 633.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <7.9> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 633.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 6.71504pt on input line 633.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <14.4> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 633.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 12.24008pt on input line 633.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <10.5> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 633.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 8.92506pt on input line 633.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <7.9> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 633.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 6.71504pt on input line 633.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <14.4> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 633.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 12.24008pt on input line 633.
+]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 633.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 600.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2597,13 +2578,15 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [34
 
-] (./main.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
+]
+<images/issue.PNG, id=762, 529.98pt x 198.7425pt>
+File: images/issue.PNG Graphic file (type png)
+<use images/issue.PNG>
+Package pdftex.def Info: images/issue.PNG  used on input line 611.
+(pdftex.def)             Requested size: 307.28987pt x 115.23433pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 637.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 611.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2612,10 +2595,15 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [35
 
-]
+ <./images/issue.PNG>]
+<images/issue-activity.PNG, id=770, 507.8975pt x 166.6225pt>
+File: images/issue-activity.PNG Graphic file (type png)
+<use images/issue-activity.PNG>
+Package pdftex.def Info: images/issue-activity.PNG  used on input line 611.
+(pdftex.def)             Requested size: 307.28987pt x 100.81326pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 647.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 611.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2624,8 +2612,75 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [36
 
+ <./images/issue-activity.PNG>]
+<images/github-desktop.jpg, id=778, 602.25pt x 200.75pt>
+File: images/github-desktop.jpg Graphic file (type jpg)
+<use images/github-desktop.jpg>
+Package pdftex.def Info: images/github-desktop.jpg  used on input line 632.
+(pdftex.def)             Requested size: 122.91406pt x 40.97021pt.
+<images/gitkraken.jpg, id=780, 1463.4675pt x 341.02406pt>
+File: images/gitkraken.jpg Graphic file (type jpg)
+<use images/gitkraken.jpg>
+Package pdftex.def Info: images/gitkraken.jpg  used on input line 632.
+(pdftex.def)             Requested size: 122.91406pt x 28.64061pt.
+<images/sourcetree.png, id=782, 1003.75pt x 250.9375pt>
+File: images/sourcetree.png Graphic file (type png)
+<use images/sourcetree.png>
+Package pdftex.def Info: images/sourcetree.png  used on input line 632.
+(pdftex.def)             Requested size: 122.91406pt x 30.72766pt.
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 632.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[37
+
+ <./images/github-desktop.jpg> <./images/gitkraken.jpg> <./images/sourcetree.png>]
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 643.
+
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <10.5> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 643.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
+(Font)              scaled to size 8.92506pt on input line 643.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <7.9> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 643.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
+(Font)              scaled to size 6.71504pt on input line 643.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <14.4> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 643.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
+(Font)              scaled to size 12.24008pt on input line 643.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <10.5> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 643.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
+(Font)              scaled to size 8.92506pt on input line 643.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <7.9> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 643.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
+(Font)              scaled to size 6.71504pt on input line 643.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <14.4> not available
+(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 643.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
+(Font)              scaled to size 12.24008pt on input line 643.
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 643.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[38
+
 ]
-<images/meme-git.jpg, id=815, 441.65pt x 442.65375pt>
+<images/meme-git.jpg, id=798, 441.65pt x 442.65375pt>
 File: images/meme-git.jpg Graphic file (type jpg)
 <use images/meme-git.jpg>
 Package pdftex.def Info: images/meme-git.jpg  used on input line 661.
@@ -2639,9 +2694,58 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [] [][][][][][] 
  []
 
-[37
+[39
 
  <./images/meme-git.jpg>]
+<images/logo_charles.png, id=817, 369.38pt x 137.51375pt>
+File: images/logo_charles.png Graphic file (type png)
+<use images/logo_charles.png>
+Package pdftex.def Info: images/logo_charles.png  used on input line 674.
+(pdftex.def)             Requested size: 307.28987pt x 114.39867pt.
+<images/group-photo.jpg, id=818, 1707.67987pt x 1138.55362pt>
+File: images/group-photo.jpg Graphic file (type jpg)
+<use images/group-photo.jpg>
+Package pdftex.def Info: images/group-photo.jpg  used on input line 674.
+(pdftex.def)             Requested size: 138.2795pt x 92.18063pt.
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 674.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[40
+
+ <./images/logo_charles.png> <./images/group-photo.jpg>] (main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 677.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[41
+
+]
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 688.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[42
+
+]
 \tf@nav=\write6
 \openout6 = `main.nav'.
 
@@ -2652,31 +2756,30 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 \openout8 = `main.snm'.
 
  
-AED: lastpage setting LastPage
-(./main.aux
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
+enddocument/afterlastpage: lastpage setting LastPage.
+(main.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
 )
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 024B780EBB2D6053DCA74F622215F5CE;3415.
+(rerunfilecheck)             Checksum: 07EC68A65E29514057E23CADF63E0575;3434.
  ) 
 Here is how much of TeX's memory you used:
- 35325 strings out of 478287
- 672209 string characters out of 5849289
- 881847 words of memory out of 5000000
- 52651 multiletter control sequences out of 15000+600000
- 1024239 words of font info for 196 fonts, out of 8000000 for 9000
+ 35838 strings out of 476334
+ 694484 string characters out of 5787971
+ 1869382 words of memory out of 5000000
+ 55377 multiletter control sequences out of 15000+600000
+ 1066851 words of font info for 199 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,21n,133p,429b,884s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_iln36p.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-Regular.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on main.pdf (37 pages, 2652121 bytes).
+ 128i,21n,133p,465b,882s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\paoto\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1440.pk> <C:\Users\paoto\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\paoto\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk>{C:/Users/paoto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fira/fir_iln36p.enc}<C:/Users/paoto/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraSans-Bold.pfb><C:/Users/paoto/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraSans-Regular.pfb><C:/Users/paoto/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
+Output written on main.pdf (42 pages, 19155949 bytes).
 PDF statistics:
- 889 PDF objects out of 1000 (max. 8388607)
- 601 compressed objects within 7 object streams
- 94 named destinations out of 1000 (max. 500000)
- 1415 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 978 PDF objects out of 1000 (max. 8388607)
+ 104 named destinations out of 1000 (max. 500000)
+ 1425 words of extra memory for PDF output out of 10000 (max. 10000000)
 
