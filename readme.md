@@ -1,4 +1,4 @@
-#CURSO GIT ESSENTIALS 
+# CURSO GIT ESSENTIALS 
  
 > Bienvenidos a la primera edición del Curso "Git Essentials: curso básico para principiantes" 
 
