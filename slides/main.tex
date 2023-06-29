@@ -68,7 +68,9 @@ literate={\$}{{\textcolor{green}{\$}}}1
 \date{30/06 y 07/07} 
 
 %correo del expositor o incluir posibles colaboradores
-% \institute{fulano@matmor.unam.mx} 
+\institute{  \begin{figure}
+    \includegraphics[width = 0.3\textwidth]{images/logo_git.png}
+  \end{figure}} 
 
 %%Tema de beamer "CCM-1"
 \usetheme{ccm1}
@@ -115,43 +117,41 @@ literate={\$}{{\textcolor{green}{\$}}}1
 
 
 
-\begin{frame}{Presentación}
+\begin{frame}
   
-  \begin{columns}
-    \begin{column}{0.5\linewidth}
-      \begin{block}{Ing. Paola B. Torres}
+  \begin{columns}[onlytextwidth]
+
+
+    \begin{column}{0.45\linewidth}
+
+      \onslide<2> {\begin{block}{Esp. Ing. Daniela Armijo} 
         \begin{itemize}
           \item Ing. Química
-          \item Estudiante de Doctorado en FRSR 
-          \item Grupo Vinculado Bionanotecnología y sistemas complejos FRSR UTN-INFAP 
-          \item Ayudante de Primera en Sistemas Dinamicos I 
-        \end{itemize}
+          \item Especialista en Docencia Univ. de UNCuyo
+          \item Docente en: Análisis Matematico I, Algebra y Geometria Analitica, Fisica I, y Análisis Matematico II 
+          \item Estudiante en la Tecnicatura en Programación de FRSR - UTN. 
+        \end{itemize}}
       \end{block}
-    % \textbf {Ing. Paola B. Torres}
-
-
-
-  \end{column}
-
-    \begin{column}{0.5\linewidth}
-
-      \begin{block}{Esp. Ing. Daniela Armijo} 
-        \begin{itemize}
-          \item 
-        \end{itemize}
-      \end{block}
-      % \begin{figure}
-      %   \includegraphics[width=0.45\textwidth]{images/group-photo.jpg}
-      % \end{figure}
    
     \end{column}
+
+    \begin{column}{0.45\linewidth}
+      \onslide<3> {\begin{block}{Ing. Paola B. Torres}
+         \begin{itemize}
+           \item Ing. Química 
+           \item Estudiante de Doctorado en FRSR - UTN 
+           \item Grupo Vinculado Bionanotecnología y sistemas complejos FRSR UTN-INFAP 
+           \item Ayudante en Sistemas Dinamicos I
+         \end{itemize}
+       \end{block}}
+     \end{column}
 
   \end{columns}
  
   \begin{figure}
-    \includegraphics[width=0.2\textwidth]{images/logo_charles.png}
-    % \includegraphics[width=0.2\textwidth]{images/logo_conicet.png}
-    \includegraphics[width=0.2\textwidth]{images/Logo_UTN.png}
+    \includegraphics[width=0.17\textwidth]{images/logo_conicet.png}
+    \includegraphics[width=0.37\textwidth]{images/Logo_UTN.png}
+    \includegraphics[width=0.3\textwidth]{images/logo_charles.png}
   \end{figure}
   % Soft matter Research Group at Charles University, Prague, Czech Republic. 
 
@@ -241,18 +241,32 @@ literate={\$}{{\textcolor{green}{\$}}}1
 
 
 \begin{frame}{Plataformas} 
- 
-  \begin{figure}
-    \includegraphics[width=0.2\textwidth]{images/logo_github.png}
-  \end{figure}
+ \begin{columns}
 
-  \begin{figure}
-    \includegraphics[width=0.3\textwidth]{images/logo_gitlab.png}
-  \end{figure}
+  \begin{column}{0.3\linewidth}
+    \begin{figure}
+      \includegraphics[width=\textwidth]{images/logo_github.png}
+    \end{figure}
+  \end{column}
+  
+  \begin{column}{0.3\linewidth}
+    \begin{figure}
+      \includegraphics[width=1.2\textwidth]{images/logo_gitlab.png}
+    \end{figure}
+  \end{column}
 
-  \begin{figure}
-    \includegraphics[width=0.4\textwidth]{images/logo_Bitbucket.png}
-  \end{figure}
+  \begin{column}{0.3\linewidth}
+    \begin{figure}
+      \includegraphics[width=1.2\textwidth]{images/logo_Bitbucket.png}
+    \end{figure}
+  \end{column}
+
+ \end{columns}
+
+
+
+
+
  
 \end{frame}
 
@@ -303,6 +317,28 @@ literate={\$}{{\textcolor{green}{\$}}}1
 
 \subsection {Comandos útiles de terminal (bash)}
 
+
+\begin{frame}{Editores de Codigo}
+  
+  \begin{columns}
+    \begin{column}{0.4\textwidth}
+      \begin{itemize}
+        \LARGE
+        \item \href{https://code.visualstudio.com/}{VS Code}
+        \item \href{https://notepad-plus-plus.org/downloads/v8.5.4/}{NotePadd++} 
+        \item VIM 
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.5\textwidth}
+    \begin{figure}
+      \includegraphics[width=1.2\textwidth]{images/vscode.png}
+    \end{figure}
+    \end{column}
+  \end{columns}
+  
+  
+  \end{frame}
+
 \begin{frame}[containsverbatim]{Comandos utiles de terminal}
 
   \begin{block}{}
@@ -315,31 +351,12 @@ literate={\$}{{\textcolor{green}{\$}}}1
     \$ touch <nombre\_archivo>\\ 
     \$ rm <nombre\_archivo> \\ 
     \$ mv <nombre\_archivo> <directorio> \\
-    \$ cp <nombre\_archivo> <directorio>}
+    \$ cp <nombre\_archivo> \textbf{.} \\    
+    \$ cp <nombre\_archivo> <directorio>} 
   \end{block}
 
 \end{frame}
 
-\begin{frame}{Editores de Codigo}
-  
-\begin{columns}
-  \begin{column}{0.4\textwidth}
-    \begin{itemize}
-      \LARGE
-      \item \href{https://code.visualstudio.com/}{VS Code}
-      \item \href{https://notepad-plus-plus.org/downloads/v8.5.4/}{NotePadd++} 
-      \item VIM 
-    \end{itemize}
-  \end{column}
-  \begin{column}{0.5\textwidth}
-  \begin{figure}
-    \includegraphics[width=1.2\textwidth]{images/vscode.png}
-  \end{figure}
-  \end{column}
-\end{columns}
-
-
-\end{frame}
 
 
 
@@ -349,8 +366,8 @@ literate={\$}{{\textcolor{green}{\$}}}1
   
     \begin{block} {}
     {\texttt {git config }} \\ 
-    {\texttt {git config --global user.name <nombre>}} \\ 
-    {\texttt {git config --global user.email <email>  }}
+    {\texttt {git config $-$$-$global user.name ``nombre''}} \\ 
+    {\texttt {git config $-$$-$global user.email ``email''  }}
     \end{block}
 
   Ref: Documentación \href{https://docs.github.com/es/get-started/getting-started-with-git/setting-your-username-in-gits}{git config }
@@ -380,94 +397,109 @@ Ref: Documentación para \href{https://docs.github.com/es/authentication/connect
 \end{frame}
 
 
-\begin{frame}[containsverbatim] {Creación de un repositorio Git}  
+\begin{frame}{Creación de un repositorio Git} 
 
-\begin{block}{}
+\onslide<1>{\begin{block}
 
   \texttt{mkdir <nombre\_carpeta>} \\ 
-  \texttt{git init}
+  \texttt{git init}}
 
 \end{block}
 
-\begin{block}{Conectar repositorio a la nube de GitHub}
+\onslide<1>{\begin{block}{Conectar repositorio a la nube de GitHub}
   \small 
   \texttt{git remote add origin git@github.com:user/repositorio.git} \\ 
   \texttt{git branch -M \textbf{main}} \\
-  \texttt{git push -u origin \textbf{main}}
+  \texttt{git push -u origin \textbf{main}}}
 
 \end{block}
 
 
 \end{frame}
-
-\subsection {Gestión de archivos}
-
-\begin{frame} {Gestión de archivos}
-
-  \begin{block}{Agregar archivos }
-    {\texttt{\$ git add <nombre\_archivo> }}
-  \end{block}
-
-  \begin{block}{Mover archivos}
-    \texttt{\$ git mv <nombre\_archivo>}
-  \end{block}
-
-  \begin{block}{Elimnar archivos}
-    \texttt{\$ git rm <nombre\_archivo>}
-  \end{block}
-
-\end{frame}
-
 
 \subsection {Confirmar cambios en el repositorio}
 
   \begin{frame} {Confirmar cambios en el repositorio}
 
-    \begin{block}{Primero: Agregar archivos }
+    \onslide<1->{\begin{block}{Primero: Agregar archivos }
       {\texttt{\$ git add [archivo] }}
-    \end{block}
+    \end{block}}
 
-    \begin{block}{Segundo: git commit}
+    \onslide<2->{   \begin{block}{Segundo: git commit}
       {\texttt{\$ git commit -m `insertar mensaje simple y preciso' }}
-    \end{block}
+    \end{block}}
 
-    \begin{block}{Tercero: git push}
+    \onslide<3->{\begin{block}{Tercero: git push}
       {\texttt{\$ git push}}
-    \end{block}
+    \end{block}}
 
   \end{frame}
 
+\subsection {Gestión de archivos}
 
-  \subsection {Historial de cambios y estado del repositorio}
+\begin{frame} {Gestión de archivos}
+
+  \onslide<1->{\begin{block}{Agregar archivos }
+    {\texttt{\$ git add <nombre\_archivo> }}
+  \end{block}}
+
+  \onslide<2-> {  \begin{block}{Mover archivos}
+    \texttt{\$ git mv <nombre\_archivo>}
+  \end{block}}
+
+  \onslide<3->{  \begin{block}{Elimnar archivos}
+    \texttt{\$ git rm <nombre\_archivo>}
+  \end{block}}
+
+\end{frame}
+
+
+\subsection {Historial de cambios y estado del repositorio}
 
   \begin{frame} {\LARGE Historial de cambios y estado del repositorio}
     
-    \begin{block}{Estado de los archivos}
+    \onslide<1>{\begin{block}{Estado de los archivos}
       {\texttt{\$ git status}} 
-    \end{block}
+    \end{block}}
 
-    \begin{block}{Historial}
+    \onslide<2>{\begin{block}{Historial}
       {\texttt{\$ git log}} \\
       \texttt{\$ git log --pretty=oneline} \\
       \texttt{\$ git log --graph} \\ 
-    \end{block}
-
-
+    \end{block}}
   \end{frame}
+
+
 
 
 \subsection{Hash: identificador de commits}
 
+\begin{frame}{Identificar commits}
+  
+  \begin{figure}
+    \includegraphics[width=0.8\textwidth]{images/git-hash.png}
+  \end{figure}
+
+  \onslide<2> {\begin{alertblock}{¿Qué es un Hash?}
+    Una función criptográfica hash es un algoritmo matemático que transforma cualquier bloque arbitrario de datos en una nueva serie de caracteres con una longitud fija (40 caracteres)
+    \end{alertblock}  }
+
+\end{frame}
+
 \begin{frame}
 
-  \begin{alertblock}{¿Qué es un Hash?}
-    Una función criptográfica hash es un algoritmo matemático que transforma cualquier bloque arbitrario de datos en una nueva serie de caracteres con una longitud fija (40 caracteres)
-    \end{alertblock}  
+  \begin{figure}
+    \includegraphics[width=0.8\textwidth]{images/git-hash.png}
+  \end{figure}
 
-\begin{figure}
-  \includegraphics[width=\textwidth]{images/git-hash.png}
-\end{figure}
 
+  \onslide<2>{ \begin{block}{¿Para que nos sirve el Hash?}
+      \texttt{\$ git diff <hash\_a> <hash\_b>} \\
+      \texttt{\$ git diff $-$$-$name$-$only <hash\_a> <hash\_b>} \\
+      \texttt{\$ git checkout <hash\_commit> } \\ 
+      \texttt{\$ git reset $-$$-$ hard <hash>}
+      
+    \end{block}}
 
 \end{frame}
 
@@ -485,6 +517,13 @@ Ref: Documentación para \href{https://docs.github.com/es/authentication/connect
 
   \begin{frame}{Pull request}
 
+    \begin{figure}
+      \includegraphics<1>[width=\textwidth]{images/git-pull-request-commit-ahead.png}
+      \includegraphics<2>[width=\textwidth]{images/git-open-pull-request.PNG}
+      \includegraphics<3>[width=0.8\textwidth]{images/git-open-pull-request-submit.PNG}
+      \includegraphics<4>[width=0.7\textwidth]{images/git-pull-request-commit-final.png}
+    \end{figure}
+
 
   \end{frame}
 
@@ -498,12 +537,12 @@ Ref: Documentación para \href{https://docs.github.com/es/authentication/connect
 
   \begin{block}{Para esto deberan:}
     Primero realizar un fork del repositorio del curso: \href{https://github.com/paobtorres/curso_git_essentials}{curso  \_git\_essentials} \\ 
-    \texttt{\$ git clone} (Clonar el repositorio de manera local) \\ 
+    \texttt{\$ git clone} (Clonar el repositorio al que hizo Fork) \\ 
     Editar \texttt{welcome.md} y agregar su usuario de github \\ 
-    \texttt{\$ git add} \\ 
-    \texttt{\$ git commit} \\ 
+    \texttt{\$ git add \texttt{welcome.md}} \\ 
+    \texttt{\$ git commit ``escriba un mensaje"} \\ 
     \texttt{\$ git push} \\ 
-    Por ultimo un \texttt{Pull request} solicitando añadir los cambios al repositorio. 
+    Por ultimo un \texttt{Pull request} solicitando añadir los cambios al repositorio original del curso. 
   \end{block}
 
 
@@ -660,15 +699,15 @@ Ref: Documentación para \href{https://docs.github.com/es/authentication/connect
 \begin{frame}{Issues}
 
   \begin{figure}
-    \includegraphics<1 | handout: 0>[width=\textwidth]{images/issue.PNG}
-    \llap {\includegraphics<2->[width=\textwidth]{images/issue-activity.PNG}}
+    \includegraphics<1>[width=\textwidth]{images/issue.PNG}
+    \includegraphics<2->[width=\textwidth]{images/issue-activity.PNG}
   \end{figure}
 
 
 \end{frame}
 
 \begin{frame} {Herramientas gráficas }
-\centering 
+
     \begin{figure}
       \includegraphics[width=0.4\textwidth]{images/github-desktop.jpg}
     \end{figure}
@@ -700,7 +739,35 @@ Ref: Documentación para \href{https://docs.github.com/es/authentication/connect
   \end{frame}
 
   
+  \section{Referencias}
 
+  \begin{frame}{Referencias}
+  
+    \begin{itemize}
+      
+      \item Documentación oficial de \href{https://git-scm.com}{git} 
+      \item Documentación de \href{https://docs.github.com/es}{GitHub} (español)
+      \item Atajos de git: \href{https://training.github.com/downloads/es_ES/github-git-cheat-sheet/}{cheat-sheet}
+    \end{itemize}
+  
+  \end{frame}
+
+  \begin{frame} {Agradecimientos}
+    \begin{itemize}
+      
+      \item AGENCIA I+D+i (FONCyT) PICT-2021-GRFTI-00090 
+      \item UTN (PIDs PATCASR0008459 and PATCASR0008463)
+      \item Soft Matter group from Charles University 
+
+    \end{itemize}
+    
+    \begin{figure}
+      \includegraphics[width=0.17\textwidth]{images/logo_conicet.png}
+      \includegraphics[width=0.37\textwidth]{images/Logo_UTN.png}
+      \includegraphics[width=0.3\textwidth]{images/logo_charles.png}
+    \end{figure}
+
+  \end{frame}
 
 
 \begin{frame}
@@ -719,18 +786,7 @@ Ref: Documentación para \href{https://docs.github.com/es/authentication/connect
 
 
 
-\section{Referencias}
 
-\begin{frame}{Referencias}
-
-  \begin{itemize}
-    
-    \item Documentación oficial de \href{https://git-scm.com}{git} 
-    \item Documentación de \href{https://docs.github.com/es}{GitHub} (español)
-    \item Atajos de git: \href{https://training.github.com/downloads/es_ES/github-git-cheat-sheet/}{cheat-sheet}
-  \end{itemize}
-
-\end{frame}
 
 \end{document}
 

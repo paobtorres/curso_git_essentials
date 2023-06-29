@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  26 JUN 2023 20:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  29 JUN 2023 10:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1730,14 +1730,14 @@ Package: lastpagemodern 2023-04-12 v2.0b Refers to last page's name (HMM; JPG)
 )) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty) (beamerouterthemeccm1.sty) (beamerinnerthemeccm1.sty) (beamercolorthemeccm1.sty))
-LaTeX Font Info:    Trying to load font information for T1+FiraSans-OsF on input line 79.
+LaTeX Font Info:    Trying to load font information for T1+FiraSans-OsF on input line 81.
  (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/fira\t1firasans-osf.fd
 File: T1FiraSans-OsF.fd 2019/10/10 (autoinst) Font definitions for T1/FiraSans-OsF.
 )
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <10.95> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 79.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 81.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 9.30756pt on input line 79.
+(Font)              scaled to size 9.30756pt on input line 81.
  (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count379
@@ -1748,68 +1748,68 @@ LaTeX Info: Redefining \% on input line 23.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/zutmi/m/it on input line 79.
-LaTeX Font Info:    Trying to load font information for OML+zutmi on input line 79.
+LaTeX Font Info:    Checking defaults for OML/zutmi/m/it on input line 81.
+LaTeX Font Info:    Trying to load font information for OML+zutmi on input line 81.
  (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlzutmi.fd
 File: omlzutmi.fd 2014/04/14 Fontinst v1.933 font definitions for OML/zutmi.
 )
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 79.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 79.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 81.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 81.
  (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 79.
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 79.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 81.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 81.
  (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 79.
-LaTeX Font Info:    Trying to load font information for T2B+cmr on input line 79.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 81.
+LaTeX Font Info:    Trying to load font information for T2B+cmr on input line 81.
  (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2bcmr.fd
 File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 79.
-LaTeX Font Info:    Trying to load font information for T2C+cmr on input line 79.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 81.
+LaTeX Font Info:    Trying to load font information for T2C+cmr on input line 81.
  (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2ccmr.fd
 File: t2ccmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 79.
-LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 79.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 81.
+LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 81.
  (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/ly1\ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 79.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 79.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 81.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 81.
  (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 79.
-LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 79.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 81.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 81.
  (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    ... okay on input line 81.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1864,57 +1864,57 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 79.
+Package hyperref Info: Link coloring ON on input line 81.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 79.
+(Font)              `operators' in the math version `normal' on input line 81.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  T1/Heuristica-TLF/m/n --> OT1/cmss/m/n on input line 79.
+(Font)                  T1/Heuristica-TLF/m/n --> OT1/cmss/m/n on input line 81.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 79.
+(Font)              `operators' in the math version `bold' on input line 81.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  T1/Heuristica-TLF/b/n --> OT1/cmss/b/n on input line 79.
+(Font)                  T1/Heuristica-TLF/b/n --> OT1/cmss/b/n on input line 81.
 \symnumbers=\mathgroup10
 \sympureletters=\mathgroup11
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/Heuristica-TLF/m/n on input line 79.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 79.
+(Font)                  OT1/cmss/m/n --> T1/Heuristica-TLF/m/n on input line 81.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  T1/Heuristica-TLF/b/n --> T1/FiraSans-OsF/b/n on input line 79.
+(Font)                  T1/Heuristica-TLF/b/n --> T1/FiraSans-OsF/b/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/Heuristica-TLF/b/n --> T1/FiraSans-OsF/b/n on input line 79.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 79.
+(Font)                  T1/Heuristica-TLF/b/n --> T1/FiraSans-OsF/b/n on input line 81.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  T1/cmss/m/n --> T1/FiraSans-OsF/m/n on input line 79.
+(Font)                  T1/cmss/m/n --> T1/FiraSans-OsF/m/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/b/n --> T1/FiraSans-OsF/m/n on input line 79.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 79.
+(Font)                  T1/cmss/b/n --> T1/FiraSans-OsF/m/n on input line 81.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  T1/Heuristica-TLF/m/it --> T1/FiraSans-OsF/m/it on input line 79.
+(Font)                  T1/Heuristica-TLF/m/it --> T1/FiraSans-OsF/m/it on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/Heuristica-TLF/b/it --> T1/FiraSans-OsF/m/it on input line 79.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 79.
+(Font)                  T1/Heuristica-TLF/b/it --> T1/FiraSans-OsF/m/it on input line 81.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/m/n on input line 79.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/m/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/b/n --> T1/cmtt/m/n on input line 79.
+(Font)                  T1/cmtt/b/n --> T1/cmtt/m/n on input line 81.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/FiraSans-OsF/m/n --> T1/FiraSans-OsF/b/n on input line 79.
+(Font)                  T1/FiraSans-OsF/m/n --> T1/FiraSans-OsF/b/n on input line 81.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/FiraSans-OsF/m/it --> T1/FiraSans-OsF/b/it on input line 79.
+(Font)                  T1/FiraSans-OsF/m/it --> T1/FiraSans-OsF/b/it on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/Heuristica-TLF/b/n on input line 79.
+(Font)                  OT1/cmss/b/n --> T1/Heuristica-TLF/b/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/FiraSans-OsF/b/n --> T1/FiraSans-OsF/b/n on input line 79.
+(Font)                  T1/FiraSans-OsF/b/n --> T1/FiraSans-OsF/b/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/FiraSans-OsF/m/n --> T1/FiraSans-OsF/b/n on input line 79.
+(Font)                  T1/FiraSans-OsF/m/n --> T1/FiraSans-OsF/b/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/FiraSans-OsF/m/it --> T1/FiraSans-OsF/b/it on input line 79.
+(Font)                  T1/FiraSans-OsF/m/it --> T1/FiraSans-OsF/b/it on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 79.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 81.
  (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-bibliography-dictionary-English.dict
@@ -1928,62 +1928,67 @@ Dictionary: translator-numbers-dictionary, Language: English
 ) (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Command `\dddot' is already robust on input line 79.
-LaTeX Info: Command `\ddddot' is already robust on input line 79.
+LaTeX Info: Command `\dddot' is already robust on input line 81.
+LaTeX Info: Command `\ddddot' is already robust on input line 81.
 \c@mv@tabular=\count386
 \c@mv@boldtabular=\count387
-LaTeX Info: Redefining \. on input line 79.
-LaTeX Info: Redefining \% on input line 79.
+LaTeX Info: Redefining \. on input line 81.
+LaTeX Info: Redefining \% on input line 81.
 \c@lstlisting=\count388
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
  (main.nav)
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <6> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 79.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 81.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 5.10004pt on input line 79.
+(Font)              scaled to size 5.10004pt on input line 81.
 <images/Logo_UTN.png, id=88, 974.1996pt x 278.2395pt>
 File: images/Logo_UTN.png Graphic file (type png)
 <use images/Logo_UTN.png>
-Package pdftex.def Info: images/Logo_UTN.png  used on input line 89.
+Package pdftex.def Info: images/Logo_UTN.png  used on input line 91.
 (pdftex.def)             Requested size: 85.35826pt x 24.37816pt.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <24.88> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 89.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 91.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 21.14815pt on input line 89.
+(Font)              scaled to size 21.14815pt on input line 91.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <37.32> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 89.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 91.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 31.72223pt on input line 89.
+(Font)              scaled to size 31.72223pt on input line 91.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <37.32> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 89.
+(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 91.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 31.72223pt on input line 89.
+(Font)              scaled to size 31.72223pt on input line 91.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <10> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 89.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 91.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 8.50006pt on input line 89.
+(Font)              scaled to size 8.50006pt on input line 91.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <8> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 89.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 91.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 6.80005pt on input line 89.
+(Font)              scaled to size 6.80005pt on input line 91.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <8> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 89.
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 91.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 6.80005pt on input line 89.
-<images/FONDO_AL_15.png, id=90, 487.0998pt x 366.168pt>
+(Font)              scaled to size 6.80005pt on input line 91.
+<images/logo_git.png, id=90, 1927.2pt x 805.0075pt>
+File: images/logo_git.png Graphic file (type png)
+<use images/logo_git.png>
+Package pdftex.def Info: images/logo_git.png  used on input line 91.
+(pdftex.def)             Requested size: 92.1879pt x 38.4962pt.
+<images/FONDO_AL_15.png, id=91, 487.0998pt x 366.168pt>
 File: images/FONDO_AL_15.png Graphic file (type png)
 <use images/FONDO_AL_15.png>
-Package pdftex.def Info: images/FONDO_AL_15.png  used on input line 89.
+Package pdftex.def Info: images/FONDO_AL_15.png  used on input line 91.
 (pdftex.def)             Requested size: 364.19536pt x 273.77605pt.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <4> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 89.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 91.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 3.40002pt on input line 89.
+(Font)              scaled to size 3.40002pt on input line 91.
  [1
 
-{C:/Users/paoto/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/FONDO_AL_15.png> <./images/Logo_UTN.png>]
+{C:/Users/paoto/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/FONDO_AL_15.png> <./images/logo_git.png> <./images/Logo_UTN.png>]
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <12> not available
 (Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 172.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
@@ -2020,63 +2025,65 @@ LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <6.1> not availabl
 (Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 172.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
 (Font)              scaled to size 5.18503pt on input line 172.
-<images/logo_charles.png, id=127, 369.38pt x 137.51375pt>
-File: images/logo_charles.png Graphic file (type png)
-<use images/logo_charles.png>
-Package pdftex.def Info: images/logo_charles.png  used on input line 172.
-(pdftex.def)             Requested size: 61.45703pt x 22.87762pt.
+<images/logo_conicet.png, id=129, 284.5029pt x 163.0893pt>
+File: images/logo_conicet.png Graphic file (type png)
+<use images/logo_conicet.png>
+Package pdftex.def Info: images/logo_conicet.png  used on input line 172.
+(pdftex.def)             Requested size: 52.23871pt x 29.94458pt.
 File: images/Logo_UTN.png Graphic file (type png)
 <use images/Logo_UTN.png>
 Package pdftex.def Info: images/Logo_UTN.png  used on input line 172.
-(pdftex.def)             Requested size: 61.45703pt x 17.55125pt.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <14.4> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 172.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 12.24008pt on input line 172.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <20.74> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 172.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 17.62912pt on input line 172.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <20.74> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 172.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 17.62912pt on input line 172.
-<images/FONDO_AL_7.png, id=128, 487.0998pt x 366.168pt>
+(pdftex.def)             Requested size: 113.69574pt x 32.47025pt.
+<images/logo_charles.png, id=130, 369.38pt x 137.51375pt>
+File: images/logo_charles.png Graphic file (type png)
+<use images/logo_charles.png>
+Package pdftex.def Info: images/logo_charles.png  used on input line 172.
+(pdftex.def)             Requested size: 92.1879pt x 34.3196pt.
+<images/FONDO_AL_7.png, id=131, 487.0998pt x 366.168pt>
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
 Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 172.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
  [2
 
- <./images/FONDO_AL_7.png> <./images/logo_charles.png>] (main.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
+ <./images/FONDO_AL_7.png> <./images/logo_conicet.png> <./images/logo_charles.png>]
+File: images/logo_conicet.png Graphic file (type png)
+<use images/logo_conicet.png>
+Package pdftex.def Info: images/logo_conicet.png  used on input line 172.
+(pdftex.def)             Requested size: 52.23871pt x 29.94458pt.
+File: images/Logo_UTN.png Graphic file (type png)
+<use images/Logo_UTN.png>
+Package pdftex.def Info: images/Logo_UTN.png  used on input line 172.
+(pdftex.def)             Requested size: 113.69574pt x 32.47025pt.
+File: images/logo_charles.png Graphic file (type png)
+<use images/logo_charles.png>
+Package pdftex.def Info: images/logo_charles.png  used on input line 172.
+(pdftex.def)             Requested size: 92.1879pt x 34.3196pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 174.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 172.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 174.
+(Font)              size <5> substituted on input line 172.
 
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <6.2> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 174.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 172.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 5.27003pt on input line 174.
+(Font)              scaled to size 5.27003pt on input line 172.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <5.5> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 174.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 172.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 4.67503pt on input line 174.
+(Font)              scaled to size 4.67503pt on input line 172.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <6.2> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 174.
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 172.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 5.27003pt on input line 174.
+(Font)              scaled to size 5.27003pt on input line 172.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <5.5> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 174.
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 172.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 4.67503pt on input line 174.
+(Font)              scaled to size 4.67503pt on input line 172.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [] [][][][][][] 
@@ -2085,11 +2092,62 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [3
 
 ]
-<images/cap-one.png, id=183, 462.97969pt x 320.69812pt>
+File: images/logo_conicet.png Graphic file (type png)
+<use images/logo_conicet.png>
+Package pdftex.def Info: images/logo_conicet.png  used on input line 172.
+(pdftex.def)             Requested size: 52.23871pt x 29.94458pt.
+File: images/Logo_UTN.png Graphic file (type png)
+<use images/Logo_UTN.png>
+Package pdftex.def Info: images/Logo_UTN.png  used on input line 172.
+(pdftex.def)             Requested size: 113.69574pt x 32.47025pt.
+File: images/logo_charles.png Graphic file (type png)
+<use images/logo_charles.png>
+Package pdftex.def Info: images/logo_charles.png  used on input line 172.
+(pdftex.def)             Requested size: 92.1879pt x 34.3196pt.
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 172.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[4
+
+] (main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 174.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[5
+
+]
+<images/cap-one.png, id=236, 462.97969pt x 320.69812pt>
 File: images/cap-one.png Graphic file (type png)
 <use images/cap-one.png>
 Package pdftex.def Info: images/cap-one.png  used on input line 186.
 (pdftex.def)             Requested size: 245.83282pt x 170.28726pt.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <14.4> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 186.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
+(Font)              scaled to size 12.24008pt on input line 186.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <20.74> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 186.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
+(Font)              scaled to size 17.62912pt on input line 186.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <20.74> not available
+(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 186.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
+(Font)              scaled to size 17.62912pt on input line 186.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
 Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 186.
@@ -2099,14 +2157,14 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [] [][][][][][] 
  []
 
-[4
+[6
 
  <./images/cap-one.png>]
 File: images/cap-one.png Graphic file (type png)
 <use images/cap-one.png>
 Package pdftex.def Info: images/cap-one.png  used on input line 186.
 (pdftex.def)             Requested size: 245.83282pt x 170.28726pt.
-<images/cap-two.png, id=190, 470.85pt x 325.434pt>
+<images/cap-two.png, id=243, 470.85pt x 325.434pt>
 File: images/cap-two.png Graphic file (type png)
 <use images/cap-two.png>
 Package pdftex.def Info: images/cap-two.png  used on input line 186.
@@ -2120,42 +2178,9 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [] [][][][][][] 
  []
 
-[5
-
- <./images/cap-two.png>]
-<images/logo_git.png, id=198, 1927.2pt x 805.0075pt>
-File: images/logo_git.png Graphic file (type png)
-<use images/logo_git.png>
-Package pdftex.def Info: images/logo_git.png  used on input line 202.
-(pdftex.def)             Requested size: 92.1879pt x 38.4962pt.
-File: images/FONDO_AL_7.png Graphic file (type png)
-<use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 202.
-(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
-
-Overfull \hbox (154.85533pt too wide) has occurred while \output is active
-[] [][][][][][] 
- []
-
-[6
-
- <./images/logo_git.png>]
-File: images/logo_git.png Graphic file (type png)
-<use images/logo_git.png>
-Package pdftex.def Info: images/logo_git.png  used on input line 202.
-(pdftex.def)             Requested size: 92.1879pt x 38.4962pt.
-File: images/FONDO_AL_7.png Graphic file (type png)
-<use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 202.
-(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
-
-Overfull \hbox (154.85533pt too wide) has occurred while \output is active
-[] [][][][][][] 
- []
-
 [7
 
-]
+ <./images/cap-two.png>]
 File: images/logo_git.png Graphic file (type png)
 <use images/logo_git.png>
 Package pdftex.def Info: images/logo_git.png  used on input line 202.
@@ -2188,7 +2213,39 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [9
 
 ]
-<images/git-central.png, id=229, 240.9pt x 188.8656pt>
+File: images/logo_git.png Graphic file (type png)
+<use images/logo_git.png>
+Package pdftex.def Info: images/logo_git.png  used on input line 202.
+(pdftex.def)             Requested size: 92.1879pt x 38.4962pt.
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 202.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[10
+
+]
+File: images/logo_git.png Graphic file (type png)
+<use images/logo_git.png>
+Package pdftex.def Info: images/logo_git.png  used on input line 202.
+(pdftex.def)             Requested size: 92.1879pt x 38.4962pt.
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 202.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[11
+
+]
+<images/git-central.png, id=280, 240.9pt x 188.8656pt>
 File: images/git-central.png Graphic file (type png)
 <use images/git-central.png>
 Package pdftex.def Info: images/git-central.png  used on input line 228.
@@ -2197,7 +2254,7 @@ LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <9> not available
 (Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 228.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
 (Font)              scaled to size 7.65005pt on input line 228.
-<images/git-distrib.png, id=230, 240.9pt x 271.2534pt>
+<images/git-distrib.png, id=281, 240.9pt x 271.2534pt>
 File: images/git-distrib.png Graphic file (type png)
 <use images/git-distrib.png>
 Package pdftex.def Info: images/git-distrib.png  used on input line 228.
@@ -2211,10 +2268,10 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [] [][][][][][] 
  []
 
-[10
+[12
 
  <./images/git-central.png> <./images/git-distrib.png>]
-<images/git-states.png, id=237, 1044.90375pt x 714.67pt>
+<images/git-states.png, id=288, 1044.90375pt x 714.67pt>
 File: images/git-states.png Graphic file (type png)
 <use images/git-states.png>
 Package pdftex.def Info: images/git-states.png  used on input line 240.
@@ -2228,63 +2285,37 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [] [][][][][][] 
  []
 
-[11
-
- <./images/git-states.png>]
-<images/logo_github.png, id=244, 1885.0425pt x 1626.075pt>
-File: images/logo_github.png Graphic file (type png)
-<use images/logo_github.png>
-Package pdftex.def Info: images/logo_github.png  used on input line 257.
-(pdftex.def)             Requested size: 61.45703pt x 52.99815pt.
-<images/logo_gitlab.png, id=245, 2007.5pt x 1819.79875pt>
-File: images/logo_gitlab.png Graphic file (type png)
-<use images/logo_gitlab.png>
-Package pdftex.def Info: images/logo_gitlab.png  used on input line 257.
-(pdftex.def)             Requested size: 92.1879pt x 83.55348pt.
-<images/logo_Bitbucket.png, id=246, 2569.6pt x 365.365pt>
-File: images/logo_Bitbucket.png Graphic file (type png)
-<use images/logo_Bitbucket.png>
-Package pdftex.def Info: images/logo_Bitbucket.png  used on input line 257.
-(pdftex.def)             Requested size: 122.91406pt x 17.47209pt.
-File: images/FONDO_AL_7.png Graphic file (type png)
-<use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 257.
-(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
-
-Overfull \hbox (154.85533pt too wide) has occurred while \output is active
-[] [][][][][][] 
- []
-
-[12
-
- <./images/logo_github.png> <./images/logo_gitlab.png> <./images/logo_Bitbucket.png>]
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <10.95> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 285.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 9.30756pt on input line 285.
-File: images/logo_github.png Graphic file (type png)
-<use images/logo_github.png>
-Package pdftex.def Info: images/logo_github.png  used on input line 285.
-(pdftex.def)             Requested size: 98.33162pt x 84.80698pt.
-File: images/FONDO_AL_7.png Graphic file (type png)
-<use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 285.
-(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
-
-Overfull \hbox (154.85533pt too wide) has occurred while \output is active
-[] [][][][][][] 
- []
-
 [13
 
-]
+ <./images/git-states.png>]
+<images/logo_github.png, id=296, 1885.0425pt x 1626.075pt>
 File: images/logo_github.png Graphic file (type png)
 <use images/logo_github.png>
-Package pdftex.def Info: images/logo_github.png  used on input line 285.
-(pdftex.def)             Requested size: 98.33162pt x 84.80698pt.
+Package pdftex.def Info: images/logo_github.png  used on input line 271.
+(pdftex.def)             Requested size: 92.1879pt x 79.52205pt.
+<images/logo_gitlab.png, id=297, 2007.5pt x 1819.79875pt>
+File: images/logo_gitlab.png Graphic file (type png)
+<use images/logo_gitlab.png>
+Package pdftex.def Info: images/logo_gitlab.png  used on input line 271.
+(pdftex.def)             Requested size: 110.62518pt x 100.26973pt.
+
+Overfull \hbox (18.43729pt too wide) in paragraph at lines 271--271
+ [] 
+ []
+
+<images/logo_Bitbucket.png, id=298, 2569.6pt x 365.365pt>
+File: images/logo_Bitbucket.png Graphic file (type png)
+<use images/logo_Bitbucket.png>
+Package pdftex.def Info: images/logo_Bitbucket.png  used on input line 271.
+(pdftex.def)             Requested size: 110.62518pt x 15.72711pt.
+
+Overfull \hbox (18.43729pt too wide) in paragraph at lines 271--271
+ [] 
+ []
+
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 285.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 271.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2293,14 +2324,18 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [14
 
-]
+ <./images/logo_github.png> <./images/logo_gitlab.png> <./images/logo_Bitbucket.png>]
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <10.95> not available
+(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 299.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
+(Font)              scaled to size 9.30756pt on input line 299.
 File: images/logo_github.png Graphic file (type png)
 <use images/logo_github.png>
-Package pdftex.def Info: images/logo_github.png  used on input line 285.
+Package pdftex.def Info: images/logo_github.png  used on input line 299.
 (pdftex.def)             Requested size: 98.33162pt x 84.80698pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 285.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 299.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2309,13 +2344,14 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [15
 
-] (main.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
+]
+File: images/logo_github.png Graphic file (type png)
+<use images/logo_github.png>
+Package pdftex.def Info: images/logo_github.png  used on input line 299.
+(pdftex.def)             Requested size: 98.33162pt x 84.80698pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 302.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 299.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2325,13 +2361,13 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [16
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 318.
- (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
-File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
-)
+File: images/logo_github.png Graphic file (type png)
+<use images/logo_github.png>
+Package pdftex.def Info: images/logo_github.png  used on input line 299.
+(pdftex.def)             Requested size: 98.33162pt x 84.80698pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 321.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 299.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2340,49 +2376,13 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [17
 
-]
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <17.28> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 342.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 14.6881pt on input line 342.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <12.5> not available
-(Font)              size <12> substituted on input line 342.
-
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <12.5> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 342.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 10.62508pt on input line 342.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <9.4> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 342.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 7.99005pt on input line 342.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <17.28> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 342.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 14.6881pt on input line 342.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <12.5> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 342.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 10.62508pt on input line 342.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <9.4> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 342.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 7.99005pt on input line 342.
-<images/vscode.png, id=321, 603.75563pt x 314.67563pt>
-File: images/vscode.png Graphic file (type png)
-<use images/vscode.png>
-Package pdftex.def Info: images/vscode.png  used on input line 342.
-(pdftex.def)             Requested size: 184.37344pt x 96.09355pt.
-
-Overfull \hbox (30.72852pt too wide) in paragraph at lines 342--342
- [] 
- []
-
+] (main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 342.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 316.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2391,10 +2391,49 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [18
 
- <./images/vscode.png>]
+]
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <17.28> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 340.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
+(Font)              scaled to size 14.6881pt on input line 340.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <12.5> not available
+(Font)              size <12> substituted on input line 340.
+
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <12.5> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 340.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
+(Font)              scaled to size 10.62508pt on input line 340.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <9.4> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 340.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
+(Font)              scaled to size 7.99005pt on input line 340.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <17.28> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 340.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
+(Font)              scaled to size 14.6881pt on input line 340.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <12.5> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 340.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
+(Font)              scaled to size 10.62508pt on input line 340.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <9.4> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 340.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
+(Font)              scaled to size 7.99005pt on input line 340.
+<images/vscode.png, id=355, 603.75563pt x 314.67563pt>
+File: images/vscode.png Graphic file (type png)
+<use images/vscode.png>
+Package pdftex.def Info: images/vscode.png  used on input line 340.
+(pdftex.def)             Requested size: 184.37344pt x 96.09355pt.
+
+Overfull \hbox (30.72852pt too wide) in paragraph at lines 340--340
+ [] 
+ []
+
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 357.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 340.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2403,10 +2442,16 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [19
 
-]
+ <./images/vscode.png>]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 355.
+ (C:\Users\paoto\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 355.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 380.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 358.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2416,11 +2461,9 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [20
 
 ]
-LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 395.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 401.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 374.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2432,7 +2475,7 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 ]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 419.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 397.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2442,9 +2485,11 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [22
 
 ]
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 418.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 438.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 418.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2454,13 +2499,9 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [23
 
 ]
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <17.28> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 456.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 14.6881pt on input line 456.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 456.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 436.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2470,14 +2511,9 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [24
 
 ]
-<images/git-hash.png, id=529, 528.97626pt x 254.9525pt>
-File: images/git-hash.png Graphic file (type png)
-<use images/git-hash.png>
-Package pdftex.def Info: images/git-hash.png  used on input line 472.
-(pdftex.def)             Requested size: 307.28987pt x 148.10596pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 472.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 436.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2486,15 +2522,10 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [25
 
- <./images/git-hash.png>]
-<images/git-fork.PNG, id=537, 349.80687pt x 70.2625pt>
-File: images/git-fork.PNG Graphic file (type png)
-<use images/git-fork.PNG>
-Package pdftex.def Info: images/git-fork.PNG  used on input line 484.
-(pdftex.def)             Requested size: 307.28987pt x 61.7261pt.
+]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 484.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 436.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2503,10 +2534,10 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [26
 
- <./images/git-fork.PNG>]
+]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 489.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 454.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2518,7 +2549,7 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 ]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 511.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 454.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2527,13 +2558,10 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [28
 
-] (main.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
+]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 516.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 454.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2543,14 +2571,13 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [29
 
 ]
-<images/git-branch.png, id=633, 2008.50375pt x 832.10875pt>
-File: images/git-branch.png Graphic file (type png)
-<use images/git-branch.png>
-Package pdftex.def Info: images/git-branch.png  used on input line 535.
-(pdftex.def)             Requested size: 215.10196pt x 89.10712pt.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <17.28> not available
+(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 470.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
+(Font)              scaled to size 14.6881pt on input line 470.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 535.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 470.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2559,10 +2586,10 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [30
 
- <./images/git-branch.png>]
+]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 554.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 470.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2572,9 +2599,14 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [31
 
 ]
+<images/git-hash.png, id=725, 528.97626pt x 254.9525pt>
+File: images/git-hash.png Graphic file (type png)
+<use images/git-hash.png>
+Package pdftex.def Info: images/git-hash.png  used on input line 487.
+(pdftex.def)             Requested size: 245.83282pt x 118.48553pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 572.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 487.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2583,10 +2615,14 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [32
 
-]
+ <./images/git-hash.png>]
+File: images/git-hash.png Graphic file (type png)
+<use images/git-hash.png>
+Package pdftex.def Info: images/git-hash.png  used on input line 487.
+(pdftex.def)             Requested size: 245.83282pt x 118.48553pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 589.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 487.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2596,9 +2632,13 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [33
 
 ]
+File: images/git-hash.png Graphic file (type png)
+<use images/git-hash.png>
+Package pdftex.def Info: images/git-hash.png  used on input line 504.
+(pdftex.def)             Requested size: 245.83282pt x 118.48553pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 610.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 504.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2608,9 +2648,13 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [34
 
 ]
+File: images/git-hash.png Graphic file (type png)
+<use images/git-hash.png>
+Package pdftex.def Info: images/git-hash.png  used on input line 504.
+(pdftex.def)             Requested size: 245.83282pt x 118.48553pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 623.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 504.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2620,9 +2664,14 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [35
 
 ]
+<images/git-fork.PNG, id=794, 349.80687pt x 70.2625pt>
+File: images/git-fork.PNG Graphic file (type png)
+<use images/git-fork.PNG>
+Package pdftex.def Info: images/git-fork.PNG  used on input line 516.
+(pdftex.def)             Requested size: 307.28987pt x 61.7261pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 638.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 516.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2631,10 +2680,15 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [36
 
-]
+ <./images/git-fork.PNG>]
+<images/git-pull-request-commit-ahead.png, id=814, 685.05937pt x 310.91156pt>
+File: images/git-pull-request-commit-ahead.png Graphic file (type png)
+<use images/git-pull-request-commit-ahead.png>
+Package pdftex.def Info: images/git-pull-request-commit-ahead.png  used on input line 528.
+(pdftex.def)             Requested size: 307.28987pt x 139.4677pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 638.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 528.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2643,10 +2697,15 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [37
 
-]
+ <./images/git-pull-request-commit-ahead.png>]
+<images/git-open-pull-request.PNG, id=822, 696.35156pt x 301.125pt>
+File: images/git-open-pull-request.PNG Graphic file (type png)
+<use images/git-open-pull-request.PNG>
+Package pdftex.def Info: images/git-open-pull-request.PNG  used on input line 528.
+(pdftex.def)             Requested size: 307.28987pt x 132.88136pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 638.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 528.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2655,10 +2714,15 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [38
 
-]
+ <./images/git-open-pull-request.PNG>]
+<images/git-open-pull-request-submit.PNG, id=829, 706.13812pt x 511.9125pt>
+File: images/git-open-pull-request-submit.PNG Graphic file (type png)
+<use images/git-open-pull-request-submit.PNG>
+Package pdftex.def Info: images/git-open-pull-request-submit.PNG  used on input line 528.
+(pdftex.def)             Requested size: 245.83282pt x 178.21129pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 638.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 528.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2667,10 +2731,15 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [39
 
-]
+ <./images/git-open-pull-request-submit.PNG>]
+<images/git-pull-request-commit-final.png, id=836, 698.61pt x 626.34pt>
+File: images/git-pull-request-commit-final.png Graphic file (type png)
+<use images/git-pull-request-commit-final.png>
+Package pdftex.def Info: images/git-pull-request-commit-final.png  used on input line 528.
+(pdftex.def)             Requested size: 215.10196pt x 192.8445pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 657.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 528.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2679,15 +2748,10 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [40
 
-]
-<images/issue.PNG, id=828, 529.98pt x 198.7425pt>
-File: images/issue.PNG Graphic file (type png)
-<use images/issue.PNG>
-Package pdftex.def Info: images/issue.PNG  used on input line 668.
-(pdftex.def)             Requested size: 307.28987pt x 115.23433pt.
+ <./images/git-pull-request-commit-final.png>]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 668.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 550.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2696,15 +2760,13 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [41
 
- <./images/issue.PNG>]
-<images/issue-activity.PNG, id=836, 507.8975pt x 166.6225pt>
-File: images/issue-activity.PNG Graphic file (type png)
-<use images/issue-activity.PNG>
-Package pdftex.def Info: images/issue-activity.PNG  used on input line 668.
-(pdftex.def)             Requested size: 307.28987pt x 100.81326pt.
+] (main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 668.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 555.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2713,25 +2775,15 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [42
 
- <./images/issue-activity.PNG>]
-<images/github-desktop.jpg, id=844, 602.25pt x 200.75pt>
-File: images/github-desktop.jpg Graphic file (type jpg)
-<use images/github-desktop.jpg>
-Package pdftex.def Info: images/github-desktop.jpg  used on input line 689.
-(pdftex.def)             Requested size: 122.91406pt x 40.97021pt.
-<images/gitkraken.jpg, id=846, 1463.4675pt x 341.02406pt>
-File: images/gitkraken.jpg Graphic file (type jpg)
-<use images/gitkraken.jpg>
-Package pdftex.def Info: images/gitkraken.jpg  used on input line 689.
-(pdftex.def)             Requested size: 122.91406pt x 28.64061pt.
-<images/sourcetree.png, id=848, 1003.75pt x 250.9375pt>
-File: images/sourcetree.png Graphic file (type png)
-<use images/sourcetree.png>
-Package pdftex.def Info: images/sourcetree.png  used on input line 689.
-(pdftex.def)             Requested size: 122.91406pt x 30.72766pt.
+]
+<images/git-branch.png, id=914, 2008.50375pt x 832.10875pt>
+File: images/git-branch.png Graphic file (type png)
+<use images/git-branch.png>
+Package pdftex.def Info: images/git-branch.png  used on input line 574.
+(pdftex.def)             Requested size: 215.10196pt x 89.10712pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 689.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 574.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2740,38 +2792,10 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [43
 
- <./images/github-desktop.jpg> <./images/gitkraken.jpg> <./images/sourcetree.png>]
-
-LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 700.
-
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <10.5> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 700.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 8.92506pt on input line 700.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <7.9> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 700.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 6.71504pt on input line 700.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <14.4> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 700.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 12.24008pt on input line 700.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <10.5> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 700.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 8.92506pt on input line 700.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <7.9> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 700.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 6.71504pt on input line 700.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <14.4> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 700.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 12.24008pt on input line 700.
+ <./images/git-branch.png>]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 700.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 593.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2781,14 +2805,9 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [44
 
 ]
-<images/meme-git.jpg, id=864, 441.65pt x 442.65375pt>
-File: images/meme-git.jpg Graphic file (type jpg)
-<use images/meme-git.jpg>
-Package pdftex.def Info: images/meme-git.jpg  used on input line 718.
-(pdftex.def)             Requested size: 153.64493pt x 153.99226pt.
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 718.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 611.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2797,13 +2816,10 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 
 [45
 
- <./images/meme-git.jpg>] (main.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
+]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 722.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 628.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2815,7 +2831,7 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 ]
 File: images/FONDO_AL_7.png Graphic file (type png)
 <use images/FONDO_AL_7.png>
-Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 733.
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 649.
 (pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
 
 Overfull \hbox (154.85533pt too wide) has occurred while \output is active
@@ -2825,6 +2841,247 @@ Overfull \hbox (154.85533pt too wide) has occurred while \output is active
 [47
 
 ]
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 662.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[48
+
+]
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 677.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[49
+
+]
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 677.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[50
+
+]
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 677.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[51
+
+]
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 677.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[52
+
+]
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 696.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[53
+
+]
+<images/issue.PNG, id=1109, 529.98pt x 198.7425pt>
+File: images/issue.PNG Graphic file (type png)
+<use images/issue.PNG>
+Package pdftex.def Info: images/issue.PNG  used on input line 707.
+(pdftex.def)             Requested size: 307.28987pt x 115.23433pt.
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 707.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[54
+
+ <./images/issue.PNG>]
+<images/issue-activity.PNG, id=1117, 507.8975pt x 166.6225pt>
+File: images/issue-activity.PNG Graphic file (type png)
+<use images/issue-activity.PNG>
+Package pdftex.def Info: images/issue-activity.PNG  used on input line 707.
+(pdftex.def)             Requested size: 307.28987pt x 100.81326pt.
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 707.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[55
+
+ <./images/issue-activity.PNG>]
+<images/github-desktop.jpg, id=1126, 602.25pt x 200.75pt>
+File: images/github-desktop.jpg Graphic file (type jpg)
+<use images/github-desktop.jpg>
+Package pdftex.def Info: images/github-desktop.jpg  used on input line 728.
+(pdftex.def)             Requested size: 122.91406pt x 40.97021pt.
+<images/gitkraken.jpg, id=1128, 1463.4675pt x 341.02406pt>
+File: images/gitkraken.jpg Graphic file (type jpg)
+<use images/gitkraken.jpg>
+Package pdftex.def Info: images/gitkraken.jpg  used on input line 728.
+(pdftex.def)             Requested size: 122.91406pt x 28.64061pt.
+<images/sourcetree.png, id=1130, 1003.75pt x 250.9375pt>
+File: images/sourcetree.png Graphic file (type png)
+<use images/sourcetree.png>
+Package pdftex.def Info: images/sourcetree.png  used on input line 728.
+(pdftex.def)             Requested size: 122.91406pt x 30.72766pt.
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 728.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[56
+
+ <./images/github-desktop.jpg> <./images/gitkraken.jpg> <./images/sourcetree.png>]
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 739.
+
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <10.5> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 739.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
+(Font)              scaled to size 8.92506pt on input line 739.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <7.9> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 739.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
+(Font)              scaled to size 6.71504pt on input line 739.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <14.4> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 739.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
+(Font)              scaled to size 12.24008pt on input line 739.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <10.5> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 739.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
+(Font)              scaled to size 8.92506pt on input line 739.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <7.9> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 739.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
+(Font)              scaled to size 6.71504pt on input line 739.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <14.4> not available
+(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 739.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
+(Font)              scaled to size 12.24008pt on input line 739.
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 739.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[57
+
+] (main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 742.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[58
+
+]
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 753.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[59
+
+]
+File: images/logo_conicet.png Graphic file (type png)
+<use images/logo_conicet.png>
+Package pdftex.def Info: images/logo_conicet.png  used on input line 770.
+(pdftex.def)             Requested size: 52.23871pt x 29.94458pt.
+File: images/Logo_UTN.png Graphic file (type png)
+<use images/Logo_UTN.png>
+Package pdftex.def Info: images/Logo_UTN.png  used on input line 770.
+(pdftex.def)             Requested size: 113.69574pt x 32.47025pt.
+File: images/logo_charles.png Graphic file (type png)
+<use images/logo_charles.png>
+Package pdftex.def Info: images/logo_charles.png  used on input line 770.
+(pdftex.def)             Requested size: 92.1879pt x 34.3196pt.
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 770.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[60
+
+]
+<images/meme-git.jpg, id=1188, 441.65pt x 442.65375pt>
+File: images/meme-git.jpg Graphic file (type jpg)
+<use images/meme-git.jpg>
+Package pdftex.def Info: images/meme-git.jpg  used on input line 785.
+(pdftex.def)             Requested size: 153.64493pt x 153.99226pt.
+File: images/FONDO_AL_7.png Graphic file (type png)
+<use images/FONDO_AL_7.png>
+Package pdftex.def Info: images/FONDO_AL_7.png  used on input line 785.
+(pdftex.def)             Requested size: 364.1942pt x 273.15028pt.
+
+Overfull \hbox (154.85533pt too wide) has occurred while \output is active
+[] [][][][][][] 
+ []
+
+[61
+
+ <./images/meme-git.jpg>]
 \tf@nav=\write6
 \openout6 = `main.nav'.
 
@@ -2845,20 +3102,20 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 20E1786E9CC610DF4F8499F2EBF8CF23;3436.
+(rerunfilecheck)             Checksum: 94C80F0623D833DB8BE276958D853712;3436.
  ) 
 Here is how much of TeX's memory you used:
- 35861 strings out of 476334
- 695182 string characters out of 5787971
- 1869382 words of memory out of 5000000
- 55391 multiletter control sequences out of 15000+600000
+ 35976 strings out of 476334
+ 698482 string characters out of 5787971
+ 1882382 words of memory out of 5000000
+ 55473 multiletter control sequences out of 15000+600000
  1066851 words of font info for 199 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,21n,133p,467b,959s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,21n,133p,467b,983s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\paoto\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1440.pk> <C:\Users\paoto\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\paoto\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk>{C:/Users/paoto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fira/fir_iln36p.enc}<C:/Users/paoto/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraSans-Bold.pfb><C:/Users/paoto/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraSans-Regular.pfb><C:/Users/paoto/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
-Output written on main.pdf (47 pages, 2737963 bytes).
+Output written on main.pdf (61 pages, 2967758 bytes).
 PDF statistics:
- 1037 PDF objects out of 1200 (max. 8388607)
- 114 named destinations out of 1000 (max. 500000)
- 1492 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1334 PDF objects out of 1440 (max. 8388607)
+ 142 named destinations out of 1000 (max. 500000)
+ 2159 words of extra memory for PDF output out of 10000 (max. 10000000)
 
