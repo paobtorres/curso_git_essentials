@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 juanku21
 FrancoV20
 AdrielDeg
@@ -16,4 +15,3 @@ JoaquinLepez
 guadalupecuartara
 matiasalvarado5
 Vandal77
->>>>>>> 21dabe1b8e543d83df6261c05889e53b89eef0a3
