@@ -1,3 +1,10 @@
+pabloo04m
+MarceloSolaBru
+belen1437 
+AlejandroRA10
+JimenaMarol
+juanku21
+FrancoV20
 AdrielDeg
 Dany1970
 AdrielA06
@@ -14,3 +21,4 @@ guadalupecuartara
 matiasalvarado5
 Vandal77
 SantiSabio
+dot-jer
